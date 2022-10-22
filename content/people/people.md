@@ -22,6 +22,7 @@ content:
     - 北大 21 级
     - 清华 20 级
     - 北大 20 级
+    - 支撑团队
 design:
   show_interests: false
   show_role: true

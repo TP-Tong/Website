@@ -3,10 +3,10 @@
 title: Guangyuan Jiang
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Course Manager
+role: Lead
 
 # Organizations/Affiliations
 organizations:
@@ -55,9 +55,3 @@ highlight_name: true
 user_groups:
   - 北大 20 级
 ---
-
-Yuyang Li is a junior student in Dept. of Automatoin at Tsinghua University. He is also a research intern at General Vision Lab, BIGAI, advised by Tengyu Liu.
-
-His research interests include human-object interaction (HOI), scene understanding, robotics and computer graphics.
-
-Beside his research, Yuyang is also interested in photography and computer networks.

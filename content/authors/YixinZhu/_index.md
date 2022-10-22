@@ -38,6 +38,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: envelope
+    icon_pack: fa
+    link: mailto:yixin.zhu@pku.edu.cn
   - icon: house
     icon_pack: fa
     link: https://yzhu.io/
