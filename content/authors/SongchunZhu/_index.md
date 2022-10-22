@@ -10,15 +10,12 @@ role: Director
 
 # Organizations/Affiliations
 organizations:
-  - name: Beijing Institute for General Artificial Intelligence
+  - name: BIGAI
     url: https://bigai.ai
   - name: Peking University
     url: https://www.pku.edu.cn
   - name: Tsinghua University
     url: https://www.tsinghua.edu.cn
-
-# Short bio (displayed in user profile at end of posts)
-bio: Dr. Yixin Zhu received a Ph.D. degree (‘18) from UCLA advised by Prof. Song-Chun Zhu. His research builds interactive AI by integrating high-level common sense (functionality, affordance, physics, causality, intent) with raw sensory inputs (pixels and haptic signals) to enable richer representation and cognitive reasoning on objects, scenes, shapes, numbers, and agents. Dr. Zhu directs the PKU CoRe (Cognitive Reasoning) lab, working on abstract reasoning, visually grounded reasoning, and interactive reasoning.
 
 interests:
   - Computer Vision
@@ -50,13 +47,10 @@ social:
     link: mailto:sczhu@stat.ucla.edu
   - icon: house
     icon_pack: fa
-    link: http://www.stat.ucla.edu/~sczhu/index.html
+    link: http://www.stat.ucla.edu/~sczhu/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=qG9l6JEAAAAJ&hl=en
-  - icon: cv
-    icon_pack: ai
-    link: https://yzhu.io/files/CV.pdf
+    link: https://scholar.google.com/citations?user=Al8dyb4AAAAJ&hl=zh-CN
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'sczhu@stat.ucla.edu'

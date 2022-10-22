@@ -10,7 +10,7 @@ role: Project Manager
 
 # Organizations/Affiliations
 organizations:
-  - name: Beijing Institute for General Artificial Intelligence
+  - name: BIGAI
     url: https://bigai.ai
 
 # Social/Academic Networking
