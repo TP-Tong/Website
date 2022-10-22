@@ -15,33 +15,17 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
-      content: Take a look at what we're working on...
+    - title: 通班官方网站上线啦！
+      content: 通班官方网站（https://tongclass.ac.cn/）上线试运行。
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
         media: coders.jpg
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
-      align: left
-      background:
-        position: center
-        color: '#555'
-        brightness: 0.7
-        media: contact.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
-      align: right
-      background:
-        position: center
-        color: '#333'
-        brightness: 0.5
-        media: welcome.jpg
       link:
         icon: graduation-cap
         icon_pack: fas
-        text: Join Us
-        url: ../contact/
+        text: 查看
+        url: '.'
 ---
