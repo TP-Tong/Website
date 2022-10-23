@@ -6,7 +6,7 @@ title: Guangyuan Jiang
 superuser: false
 
 # Role/position
-role: Lead
+role: Member
 
 # Organizations/Affiliations
 organizations:

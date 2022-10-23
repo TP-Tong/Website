@@ -6,7 +6,7 @@ title: Yixin Zhu
 superuser: true
 
 # Role/position
-role: Course Manager
+role: Course Manager, Headteacher
 
 # Organizations/Affiliations
 organizations:
@@ -63,7 +63,8 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 通班负责人
+  - 支撑团队
+  - 北大 21 级
 ---
 
 Dr. Yixin Zhu received a Ph.D. degree (‘18) from UCLA advised by Prof. Song-Chun Zhu. His research builds interactive AI by integrating high-level common sense (functionality, affordance, physics, causality, intent) with raw sensory inputs (pixels and haptic signals) to enable richer representation and cognitive reasoning on objects, scenes, shapes, numbers, and agents. Dr. Zhu directs the PKU CoRe (Cognitive Reasoning) lab, working on abstract reasoning, visually grounded reasoning, and interactive reasoning.
