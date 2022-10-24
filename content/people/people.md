@@ -17,6 +17,7 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
     - 通班负责人
+    - 班主任
     - 北大 22 级
     - 清华 21 级
     - 北大 21 级
