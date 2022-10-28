@@ -19,7 +19,7 @@ content:
       content: 通班官方网站（https://tongclass.ac.cn/）上线试运行。
       align: center
       background:
-        position: right
+        position: center
         color: '#666'
         brightness: 0.7
         media: bigai.jpg
@@ -27,5 +27,18 @@ content:
         icon: graduation-cap
         icon_pack: fas
         text: 查看
-        url: '.'
+        url: 'https://tongclass.ac.cn/'
+    - title: 快来认识通班吉祥物——雪泥
+      content: 雪泥，小名“通通”，是通班的吉祥物。它的研究兴趣包括猫-物交互（Cat-Object Interaction）、猫咪语言处理（Cat Language Processing）和多猫咪系统（Multi-Cat Systems）。
+      align: center
+      background:
+        position: center
+        color: '#666'
+        brightness: 0.7
+        media: xueni.png
+      link:
+        icon: cat
+        icon_pack: fas
+        text: 查看
+        url: 'https://tongclass.ac.cn/author/xueni-tong-tong/'
 ---
