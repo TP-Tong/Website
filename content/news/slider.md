@@ -29,7 +29,7 @@ content:
         text: 查看
         url: 'https://tongclass.ac.cn/'
     - title: 快来认识通班吉祥物——雪泥
-      content: 雪泥，小名“通通”，是通班的吉祥物。它的研究兴趣包括猫-物交互（Cat-Object Interaction）、猫咪语言处理（Cat Language Processing）和多猫咪系统（Multi-Cat Systems）。
+      content: 雪泥，小名“通通”，是通班的吉祥物。它的研究兴趣包括猫-物交互、猫咪语言处理和多猫咪系统。
       align: center
       background:
         position: center
