@@ -71,7 +71,6 @@ image:
 
 ![](http://assets.tongclass.ac.cn/posts/2022/10-28/tong-cat/tong-cat_meme_0.png)
 ![](http://assets.tongclass.ac.cn/posts/2022/10-28/tong-cat/tong-cat_meme_1.png)
-![](http://assets.tongclass.ac.cn/posts/2022/10-28/tong-cat/tong-cat_meme_2.png)
 ![](http://assets.tongclass.ac.cn/posts/2022/10-28/tong-cat/tong-cat_meme_3.png)
 ![](http://assets.tongclass.ac.cn/posts/2022/10-28/tong-cat/tong-cat_meme_4.png)
 ![](http://assets.tongclass.ac.cn/posts/2022/10-28/tong-cat/tong-cat_meme_5.png)
