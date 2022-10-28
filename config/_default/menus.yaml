@@ -7,9 +7,9 @@ main:
   - name: 动态
     url: news
     weight: 10
-  - name: 成员
-    url: people
-    weight: 20
+  # - name: 成员
+  #   url: people
+  #   weight: 20
   - name: 成果
     url: publication
     weight: 30
