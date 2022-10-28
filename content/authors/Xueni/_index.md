@@ -19,7 +19,7 @@ interests:
 social:
   - icon: house
     icon_pack: fa
-    link: https://meow.tong.news/
+    link: https://tongclass.ac.cn/author/xueni-tong-tong/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -40,3 +40,7 @@ user_groups:
 ---
 
 Xueni, aka Tong Tong, is the mascot of Tong Class! Its research interests include cat-object interaction (COI), cat language processing (CLP) and multi-cat systems (MCS).
+
+**Address**: Tizhai, Peking University
+
+**Open Office Hour**: Friday to Sunday, 9:00-11:00, 15:00-17:00 CST
