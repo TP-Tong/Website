@@ -29,7 +29,6 @@ image:
 - 代号：通猫
 
 ![](http://assets.tongclass.ac.cn/posts/2022/10-28/tong-cat/tong-cat_1.png)
-![](http://assets.tongclass.ac.cn/posts/2022/10-28/tong-cat/tong-cat_2.png)
 ![](http://assets.tongclass.ac.cn/posts/2022/10-28/tong-cat/tong-cat_3.png)
 
 
