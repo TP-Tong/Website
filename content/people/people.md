@@ -10,7 +10,7 @@ headless: true
 weight: 68
 
 title: 通班成员
-subtitle:
+subtitle: 
 
 content:
   # Choose which groups/teams of users to display.
@@ -24,6 +24,7 @@ content:
     - 清华 20 级
     - 北大 20 级
     - 支撑团队
+    - 吉祥物
 design:
   show_interests: false
   show_role: true
