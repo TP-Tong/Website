@@ -16,14 +16,13 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - 通班负责人
-    - 班主任
+    - 负责人
+    - 指导老师与支撑团队
     - 北大 22 级
     - 清华 21 级
     - 北大 21 级
     - 清华 20 级
     - 北大 20 级
-    - 支撑团队
     - 吉祥物
 design:
   show_interests: false

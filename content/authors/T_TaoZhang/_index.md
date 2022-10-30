@@ -1,18 +1,21 @@
 ---
 # Display name
-title: Yuxi Ma
+title: Tao Zhang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Project Manager
+role: Director
 
 # Organizations/Affiliations
 organizations:
-  - name: BIGAI
-    url: https://bigai.ai
+  - name: Tsinghua University
+    url: 'https://www.tsinghua.edu.cn'
 
+interests:
+  - Artificial Intelligence
+  - Robotics
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -20,22 +23,19 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fa
-    link: mailto:mayuxi987@gmail.com
+    link: mailto:taozhang@tsinghua.edu.cn
   - icon: house
     icon_pack: fa
-    link: https://mayuxi987.github.io/
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/YuyangLee
+    link: https://www.au.tsinghua.edu.cn/info/1005/1702.htm
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'mayuxi987@gmail.com'
+email: 'taozhang@tsinghua.edu.cn'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 支撑团队
+  - 负责人
 ---

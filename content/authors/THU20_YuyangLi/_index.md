@@ -12,9 +12,11 @@ role: Technical Lead
 organizations:
   - name: Tsinghua University
     url: 'https://www.tsinghua.edu.cn'
+  - name: BIGAI
+    url: 'https://www.bigai.ai'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include human-object interaction, scene understanding and robotics.
+bio: His research interests include human-object interaction, scene understanding and robotics.
 
 interests:
   - Artificial Intelligence
@@ -45,12 +47,12 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/YuyangLee
-  - icon: cv
-    icon_pack: ai
-    link: https://assets.aidenli.net/aiden/cv/yuyangli-cv-latest.pdf
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/aidenli_thu
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: https://assets.aidenli.net/aiden/cv/yuyangli-cv-latest.pdf
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/aidenli_thu
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.cn/incareer/in/yuyangl
@@ -59,7 +61,7 @@ social:
 email: 'i@aidenli.net'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

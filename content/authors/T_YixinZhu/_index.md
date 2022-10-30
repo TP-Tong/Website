@@ -52,19 +52,18 @@ social:
     link: https://github.com/xiaozhuchacha
   - icon: cv
     icon_pack: ai
-    link: https://yzhu.io/files/CV.pdf
+    link: https://drive.google.com/file/d/1WtBMD3Yx_DPdnb1WPMPYA9Ir13KSaEnl
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'yixin.zhu@pku.edu.cn'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 支撑团队
-  - 班主任
+  - 指导老师与支撑团队
 ---
 
 Dr. Yixin Zhu received a Ph.D. degree (‘18) from UCLA advised by Prof. Song-Chun Zhu. His research builds interactive AI by integrating high-level common sense (functionality, affordance, physics, causality, intent) with raw sensory inputs (pixels and haptic signals) to enable richer representation and cognitive reasoning on objects, scenes, shapes, numbers, and agents. Dr. Zhu directs the PKU CoRe (Cognitive Reasoning) lab, working on abstract reasoning, visually grounded reasoning, and interactive reasoning.

@@ -40,15 +40,12 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/jianggy
-  - icon: cv
-    icon_pack: ai
-    link: https://yzhu.io/files/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'jgy@stu.pku.edu.cn'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

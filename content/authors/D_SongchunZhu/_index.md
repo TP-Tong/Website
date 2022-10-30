@@ -56,12 +56,12 @@ social:
 email: 'sczhu@stat.ucla.edu'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 通班负责人
+  - 负责人
 ---
 
 我在美国学习、生活、工作28年之后，于2020年9月回国，组建北京通用人工智能研究院，并依托北京大学、清华大学打造通用人工智能领域的重要科技力量。探索涵盖人工智能六大核心领域的理论框架，尝试将通用人工智能与医学、心理学、神经科学等学科进行交叉发展，并将中国传统的人文、艺术、哲学方面的成就融入通用人工智能。 目前，北京通用人工智能研究院已经聚集了一批海内外优秀的多学科交叉科研人员、工程技术团队、和中国最优秀的学生。我们热忱地欢迎海内外有抱负的优秀学子，加入北京通用人工智能研究院，在这里你将遇到最优秀的学者、最志同道合的同事、最好的学生、最开放的学术氛围、最舒适的工作与生活环境，欢迎大家和我们一同踏上迈向通用人工智能的征程，一起寻找打开智能时代大门的钥匙，创造属于你们的时代，引领下一个百年。
