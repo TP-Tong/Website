@@ -49,7 +49,7 @@ Xueni, aka Tong Tong, is the mascot of Tong Class. Its research interests includ
 
 ## Publications
 
-- **CatIPS 22 Oral**: CatPose: Breed-Level Cat Pose Estimation from Single RGB Image, [PDF](http://assets.tongclass.ac.cn/posts/2022/10-28/tong-cat/xueni2022catpose.pdf)
+- **CatIPS 22 Oral**: CatPose: Breed-Level Cat Pose Estimation from Single RGB Image, [PDF](http://assets.tongclass.ac.cn/posts/2022/10-15/tong-cat/xueni2022catpose.pdf)
 - **Scientific Wild**: In Situ Bidirectional Human-Cat Value Alignment 
 
 ## Professional Activities

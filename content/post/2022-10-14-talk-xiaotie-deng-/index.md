@@ -1,24 +1,22 @@
 ---
 title: 通元识广 | 邓小铁老师交流会
-date: 2021-09-30
+date: 2022-10-14
 image:
   focal_point: 'bottom'
 ---
 
-10月14日，元培学院2021级通班与北京大学前沿计算研究中心讲席教授邓小铁、前沿计算研究中心2022级博士研究生李翰禹、元培学院2019级本科生唐静吾举行交流会。
+10月14日，元培学院2021级通班与北京大学前沿计算研究中心讲席教授邓小铁、前沿计算研究中心2022级博士研究生李翰禹、元培学院2019级本科生唐静吾在35楼B107会议室举行交流会。
 
 <!--more-->
 
-10月14日，元培学院2021级通班与北京大学前沿计算研究中心讲席教授邓小铁、前沿计算研究中心2022级博士研究生李翰禹、元培学院2019级本科生唐静吾在35楼B107会议室举行交流会。
-
-![](https://assets.tongclass.ac.cn/posts/2021/10-14/talk-xiaotie-deng/5.jpeg)
+![](https://assets.tongclass.ac.cn/posts/2022/10-14/talk-xiaotie-deng/5.jpeg)
 
 ### 邓小铁老师介绍
 邓小铁老师致力于大数据时代算法的理论和应用以及与大量参与者交互作用的原理及优化，研究工作包括互联网经济中最优拍卖算法，平台竞争分析，互联网中性原则，区块链技术应用，生物3D重构和材料基因组中深度机器学习方法。
 
-![](https://assets.tongclass.ac.cn/posts/2021/10-14/talk-xiaotie-deng/1.jpeg)
-
 > From: https://upimg.baike.so.com/doc/2843335-3000575.html
+
+![](https://assets.tongclass.ac.cn/posts/2022/10-14/talk-xiaotie-deng/1.jpeg)
 
 ## About Discrete Mathematics
 
@@ -26,7 +24,7 @@ image:
 
 北京大学数学基础雄厚，集合论与图论、代数与组合、数理逻辑是北京大学开设的优质课程，随着图灵班的组建，在借鉴美国多所知名大学的经验后，北大立足实际情况，将三门课程糅合为一门离散数学的情况下，保持了北大数学原有的深度与高标准。
 
-![](https://assets.tongclass.ac.cn/posts/2021/10-14/talk-xiaotie-deng/2.jpeg)
+![](https://assets.tongclass.ac.cn/posts/2022/10-14/talk-xiaotie-deng/2.jpeg)
 
 在国外计算机教学普遍重离散而轻连续的情况下，北大坚持连续数学与离散数学并重，凭借北京大学雄厚的数学教学资源，为同学们打下了深厚的数学基础。而事实证明，随着AI的发展，连续数学逐渐在ML等领域得到应用并取得了一系列成果，北大学生凭借良好的连续数学基础，得以在与其他大学学生的竞争中占据优势。
 
@@ -37,7 +35,7 @@ image:
 
 此外，邓老师也就人机关系、对世界的认知等方面谈了谈他对未来AI的看法。
 
-![](https://assets.tongclass.ac.cn/posts/2021/10-14/talk-xiaotie-deng/3.jpeg)
+![](https://assets.tongclass.ac.cn/posts/2022/10-14/talk-xiaotie-deng/3.jpeg)
 
 最后，邓老师鼓励同学们打好连续数学与离散数学的基础，鼓励大家参与本科科研，在人工智能领域积极探索，注重知识的广度与深度。
 
@@ -46,7 +44,7 @@ image:
 
 李翰禹学长通过自己的亲身经历勉励同学们：无论身处怎样的境地，都要保持积极乐观的心态，都不要放弃学习。
 
-![](https://assets.tongclass.ac.cn/posts/2021/10-14/talk-xiaotie-deng/4.jpeg)
+![](https://assets.tongclass.ac.cn/posts/2022/10-14/talk-xiaotie-deng/4.jpeg)
 
 通过本次交流会，同学们对于离散课程的设计理念、学习方法有了更多的了解，从邓老师和学长的讲述中，同学们也了解了计算机理论研究的具体问题，思考人工智能未来的发展方向。此外，学长的经验分享也引起了大家的共鸣，启发同学们正确看待遇到的困难，更好地迎接学习和科研中的挑战。
 

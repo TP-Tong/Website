@@ -1,28 +1,26 @@
 ---
 title: 通元识广 | 计算生物学中的机器学习——马剑竹老师交流会
-date: 2021-09-30
+date: 2022-09-30
 image:
   focal_point: 'bottom'
 ---
 
-2021年9月30日，元培学院2021级通班与北京大学人工智能研究院马剑竹老师举行交流会。
+9月30日，元培学院2021级通班与北京大学人工智能研究院的马剑竹老师在35楼B107会议室举行交流会。
 
 <!--more-->
 
-9月30日，元培学院2021级通班与北京大学人工智能研究院的马剑竹老师在35楼B107会议室举行交流会。
-
-![](https://assets.tongclass.ac.cn/posts/2021/09-30/talk-jianzhu-ma/1.jpeg)
+![](https://assets.tongclass.ac.cn/posts/2022/09-30/talk-jianzhu-ma/1.jpeg)
 
 马剑竹老师主要研究方向是生物信息学和计算生物学、药物研发、深度学习等。目前致力于开发将患者数据用于疾病精确诊断和治疗的计算模型。
 
-![](https://assets.tongclass.ac.cn/posts/2021/09-30/talk-jianzhu-ma/2.jpeg)
+![](https://assets.tongclass.ac.cn/posts/2022/09-30/talk-jianzhu-ma/2.jpeg)
 
 ## ML in Computational Biology
 
 马剑竹老师以生物制药为例，深入浅出地介绍了计算生物学中的机器学习。与计算机视觉比，计算生物学的人才相对稀缺。计算生物学可将制药、蛋白质等生物学问题与机器学习等手段紧密结合，具体任务包括靶点预测、药物分子设计、3D结构预测等。DeepMind的AlphaFold2将有关蛋白质结构的物理和生物知识利用多序列比对，融入深度机器学习的算法设计中，在蛋白质结构预测领域十分成功，被Science评为2021年最重要的科学突破之一。
 
 
-![](https://assets.tongclass.ac.cn/posts/2021/09-30/talk-jianzhu-ma/3.png)
+![](https://assets.tongclass.ac.cn/posts/2022/09-30/talk-jianzhu-ma/3.png)
 
 ## AI for Science
 ### 通识与通班
@@ -30,7 +28,7 @@ image:
 马剑竹老师讲到，不要让自己的视野被学科壁垒限制，而要广泛涉猎，从而达到通识，才能更深层次地利用人工智能进行其他学科的研究，计算生物学等交叉学科就是生动的范例。
 
 
-![](https://assets.tongclass.ac.cn/posts/2021/09-30/talk-jianzhu-ma/4.jpeg)
+![](https://assets.tongclass.ac.cn/posts/2022/09-30/talk-jianzhu-ma/4.jpeg)
 
 ### 深度与热度
 
@@ -59,8 +57,8 @@ image:
 **马剑竹：** 要多尝试，不用在很早的时候就确定研究方向，在尝试中找到自己真正感兴趣的方向。有激励的时候“胜就骄”，没有的时候“败就馁”，这不是真正的兴趣。你要问自己有没有趣，“又菜又爱玩”才是发自内心的兴趣。就像在RL中，不要被instant reward所迷惑，要更多关注 long-term reward。
 
 
-![](https://assets.tongclass.ac.cn/posts/2021/09-30/talk-jianzhu-ma/6.jpeg)
-![](https://assets.tongclass.ac.cn/posts/2021/09-30/talk-jianzhu-ma/7.jpeg)
+![](https://assets.tongclass.ac.cn/posts/2022/09-30/talk-jianzhu-ma/6.jpeg)
+![](https://assets.tongclass.ac.cn/posts/2022/09-30/talk-jianzhu-ma/7.jpeg)
 
 ---
 

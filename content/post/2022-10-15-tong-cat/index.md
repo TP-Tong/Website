@@ -11,7 +11,7 @@ image:
 
 ## 个人档案
 
-![](http://assets.tongclass.ac.cn/posts/2022/10-28/tong-cat/tong-cat_0.png)
+![](http://assets.tongclass.ac.cn/posts/2022/10-15/tong-cat/tong-cat_0.png)
 
 - 姓名：雪泥
 - 小名：通通（毕竟我是通班吉祥物）
@@ -21,16 +21,16 @@ image:
 - 代号：通猫
 - [主页](https://tongclass.ac.cn/author/xueni-tong-tong/)
 
-![](http://assets.tongclass.ac.cn/posts/2022/10-28/tong-cat/tong-cat_1.png)
-![](http://assets.tongclass.ac.cn/posts/2022/10-28/tong-cat/tong-cat_3.png)
+![](http://assets.tongclass.ac.cn/posts/2022/10-15/tong-cat/tong-cat_1.png)
+![](http://assets.tongclass.ac.cn/posts/2022/10-15/tong-cat/tong-cat_2.png)
 
 
 ## 我为什么叫“雪泥”？
 
 我通身雪白，脸上、嘴周有些黑灰，像是可爱的小泥点儿，因此叫“雪泥”。或者你也可以说我的名字是有出处的——“人生到处知何似，应似飞鸿踏雪泥”，这是苏东坡对人生旅途的描摹。
 
-![](http://assets.tongclass.ac.cn/posts/2022/10-28/tong-cat/tong-cat_4.png)
-![](http://assets.tongclass.ac.cn/posts/2022/10-28/tong-cat/tong-cat_5.png)
+![](http://assets.tongclass.ac.cn/posts/2022/10-15/tong-cat/tong-cat_3.png)
+![](http://assets.tongclass.ac.cn/posts/2022/10-15/tong-cat/tong-cat_4.png)
 
 
 ## 我的爱好
@@ -42,8 +42,8 @@ image:
 - 喜欢你胡噜我的下巴、脑袋和后背
 - 如果我发出咕噜咕噜的声音，表示我很喜欢你~
 
-![](http://assets.tongclass.ac.cn/posts/2022/10-28/tong-cat/tong-cat_6.png)
-![](http://assets.tongclass.ac.cn/posts/2022/10-28/tong-cat/tong-cat_7.png)
+![](http://assets.tongclass.ac.cn/posts/2022/10-15/tong-cat/tong-cat_5.png)
+![](http://assets.tongclass.ac.cn/posts/2022/10-15/tong-cat/tong-cat_6.png)
 
 
 ## Open Office Hour (x)
@@ -57,16 +57,18 @@ image:
   3. 注意饮食安全，请勿投喂
   4. 玩一会儿就好，我还小不能太兴奋~
 
+![](http://assets.tongclass.ac.cn/posts/2022/10-15/tong-cat/tong-cat_7.png)
+![](http://assets.tongclass.ac.cn/posts/2022/10-15/tong-cat/tong-cat_8.png)
+![](http://assets.tongclass.ac.cn/posts/2022/10-15/tong-cat/tong-cat_9.png)
 
 ## 猫猫表情包
 
 最后送上猫猫表情包，以及曾经青葱的我~
 
-![](http://assets.tongclass.ac.cn/posts/2022/10-28/tong-cat/tong-cat_meme_0.png)
-![](http://assets.tongclass.ac.cn/posts/2022/10-28/tong-cat/tong-cat_meme_1.png)
-![](http://assets.tongclass.ac.cn/posts/2022/10-28/tong-cat/tong-cat_meme_3.png)
-![](http://assets.tongclass.ac.cn/posts/2022/10-28/tong-cat/tong-cat_meme_4.png)
-![](http://assets.tongclass.ac.cn/posts/2022/10-28/tong-cat/tong-cat_meme_5.png)
+![](http://assets.tongclass.ac.cn/posts/2022/10-15/tong-cat/tong-cat_meme_0.png)
+![](http://assets.tongclass.ac.cn/posts/2022/10-15/tong-cat/tong-cat_meme_1.png)
+![](http://assets.tongclass.ac.cn/posts/2022/10-15/tong-cat/tong-cat_meme_3.png)
+![](http://assets.tongclass.ac.cn/posts/2022/10-15/tong-cat/tong-cat_meme_4.png)
 
 ---
 
