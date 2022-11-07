@@ -67,27 +67,6 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://assets.tongclass.ac.cn/posts/2022/10-15/tong-cat/tong-cat_1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://assets.tongclass.ac.cn/posts/2022/10-15/tong-cat/tong-cat_2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
@@ -361,27 +340,6 @@
       <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://tongclass.ac.cn/post/2022-10-14-talk-xiaotie-deng-/</guid>
       <description>&lt;p&gt;10月14日，元培学院2021级通班与北京大学前沿计算研究中心讲席教授邓小铁、前沿计算研究中心2022级博士研究生李翰禹、元培学院2019级本科生唐静吾在35楼B107会议室举行交流会。&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://assets.tongclass.ac.cn/posts/2022/10-14/talk-xiaotie-deng/5.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
 &lt;h3 id=&#34;邓小铁老师介绍&#34;&gt;邓小铁老师介绍&lt;/h3&gt;
 &lt;p&gt;邓小铁老师致力于大数据时代算法的理论和应用以及与大量参与者交互作用的原理及优化，研究工作包括互联网经济中最优拍卖算法，平台竞争分析，互联网中性原则，区块链技术应用，生物3D重构和材料基因组中深度机器学习方法。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -502,6 +460,9 @@
       <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://tongclass.ac.cn/post/2022-09-30-talk-jianzhu-ma/</guid>
       <description>&lt;p&gt;9月30日，元培学院2021级通班与北京大学人工智能研究院的马剑竹老师在35楼B107会议室举行交流会。&lt;/p&gt;
+&lt;p&gt;马剑竹老师主要研究方向是生物信息学和计算生物学、药物研发、深度学习等。目前致力于开发将患者数据用于疾病精确诊断和治疗的计算模型。&lt;/p&gt;
+&lt;h2 id=&#34;ml-in-computational-biology&#34;&gt;ML in Computational Biology&lt;/h2&gt;
+&lt;p&gt;马剑竹老师以生物制药为例，深入浅出地介绍了计算生物学中的机器学习。&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -523,30 +484,7 @@
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://assets.tongclass.ac.cn/posts/2022/09-30/talk-jianzhu-ma/1.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;马剑竹老师主要研究方向是生物信息学和计算生物学、药物研发、深度学习等。目前致力于开发将患者数据用于疾病精确诊断和治疗的计算模型。&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://assets.tongclass.ac.cn/posts/2022/09-30/talk-jianzhu-ma/2.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;h2 id=&#34;ml-in-computational-biology&#34;&gt;ML in Computational Biology&lt;/h2&gt;
-&lt;p&gt;马剑竹老师以生物制药为例，深入浅出地介绍了计算生物学中的机器学习。与计算机视觉比，计算生物学的人才相对稀缺。计算生物学可将制药、蛋白质等生物学问题与机器学习等手段紧密结合，具体任务包括靶点预测、药物分子设计、3D结构预测等。DeepMind的AlphaFold2将有关蛋白质结构的物理和生物知识利用多序列比对，融入深度机器学习的算法设计中，在蛋白质结构预测领域十分成功，被Science评为2021年最重要的科学突破之一。&lt;/p&gt;
+&lt;p&gt;与计算机视觉比，计算生物学的人才相对稀缺。计算生物学可将制药、蛋白质等生物学问题与机器学习等手段紧密结合，具体任务包括靶点预测、药物分子设计、3D结构预测等。DeepMind的AlphaFold2将有关蛋白质结构的物理和生物知识利用多序列比对，融入深度机器学习的算法设计中，在蛋白质结构预测领域十分成功，被Science评为2021年最重要的科学突破之一。&lt;/p&gt;
 &lt;p&gt;
 
 
