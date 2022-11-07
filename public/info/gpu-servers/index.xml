@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GPU Servers Guide | 通用人工智能实验班</title>
+    <link>https://tongclass.ac.cn/info/gpu-servers/</link>
+      <atom:link href="https://tongclass.ac.cn/info/gpu-servers/index.xml" rel="self" type="application/rss+xml" />
+    <description>GPU Servers Guide</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://tongclass.ac.cn/media/icon_hu444d86ff9c8bc6b3e6f8c2a3492878e5_142951_512x512_fill_lanczos_center_3.png</url>
+      <title>GPU Servers Guide</title>
+      <link>https://tongclass.ac.cn/info/gpu-servers/</link>
+    </image>
+    
+    <item>
+      <title>Preliminaries</title>
+      <link>https://tongclass.ac.cn/info/gpu-servers/preliminaries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/info/gpu-servers/preliminaries/</guid>
+      <description>&lt;p&gt;We provides resources to learn preliminaries for using computing servers.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;h2 id=&#34;linux&#34;&gt;Linux&lt;/h2&gt;
+&lt;p&gt;Instead of fully learning Linux, you can just go through:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.runoob.com/linux/linux-intro.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An Intro to Linux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.runoob.com/linux/linux-system-contents.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linux System Contents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.runoob.com/linux/linux-remote-login.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Remote Login (with PuTTY)&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Note that you can also login with &lt;code&gt;ssh&lt;/code&gt; command or other softwares like Termius and VSCode&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.runoob.com/linux/linux-file-attr-permission.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;File Attributes and Permissions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.runoob.com/linux/linux-vim.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vi/Vim&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conda&#34;&gt;Conda&lt;/h2&gt;
+&lt;p&gt;You should work in virtual environments to isolate packages among your projects to avoid bad dependencies. You can go through:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/351348108&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An Intro to Anaconda&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The latest Anaconda installer can be found on the server. See [Useful Resources](#Useful Resources)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;ssh&#34;&gt;SSH&lt;/h2&gt;
+&lt;p&gt;You need SSH to login to the server:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ssh USERNAME@URL -p PORT
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Note that you should change the &lt;code&gt;USERNAME&lt;/code&gt; and &lt;code&gt;PORT&lt;/code&gt; to your account name and the server port. E.g. To login to the server at &lt;code&gt;server.net&lt;/code&gt; on the port &lt;code&gt;23333&lt;/code&gt; with account &lt;code&gt;alice&lt;/code&gt;, use:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ssh alice@server.net -p &lt;span class=&#34;m&#34;&gt;23333&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;with &lt;code&gt;PORT&lt;/code&gt; unspecified, the SSH default port &lt;code&gt;22&lt;/code&gt; is used.&lt;/p&gt;
+&lt;p&gt;For more information, You can go through &lt;a href=&#34;https://wangdoc.com/ssh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this SSH guide&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>THU Servers</title>
+      <link>https://tongclass.ac.cn/info/gpu-servers/thu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/info/gpu-servers/thu/</guid>
+      <description>&lt;p&gt;Please contact &lt;a href=&#34;https://yuyangli.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yuyang Li&lt;/a&gt; for more information. Note that you can only access them&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;h2 id=&#34;preliminaries&#34;&gt;Preliminaries&lt;/h2&gt;
+&lt;p&gt;To make sure that you&amp;rsquo;re capable of using a server for computation, it&amp;rsquo;s suggested that you go through &lt;a href=&#34;https://tongclass.ac.cn/info/gpu-servers/gpu-server-prelinilaries/&#34;&gt;this guide&lt;/a&gt; several stuffs as preliminaries.&lt;/p&gt;
+&lt;p&gt;Remember that it&amp;rsquo;s common to be frustrated dealing with a command line Linux and other new tech stuffs, but you will master it after try-and-errors. Good luck!&lt;/p&gt;
+&lt;h2 id=&#34;login-to-the-servers&#34;&gt;Login to the Servers&lt;/h2&gt;
+&lt;p&gt;Of note, &lt;strong&gt;using SSH keys as the login method is a must for remote login for security reasons&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;gpu-servers-in-thu-central-building-room-501&#34;&gt;GPU Servers in THU Central Building Room 501&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;It&amp;rsquo;s strongly recommended to go to Room 501 to use the machines in person, where you can access not only GUI desktops, but also guidance and help from our TAs.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;To access remotely, &lt;strong&gt;please use &lt;code&gt;501.gpu.tongclass.ac.cn&lt;/code&gt; with specified ports&lt;/strong&gt;, depending on the machine allocated to you. Please see the internally-shared Google doc or contact the TAs for information. E.g. your username is john, and you&amp;rsquo;ve been allocated the server &lt;code&gt;appleseed&lt;/code&gt;, which in on the port &lt;code&gt;23333&lt;/code&gt; according to the doc, so you login to the server with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ssh john@501.gpu.tongclass.ac.cn -p &lt;span class=&#34;m&#34;&gt;23333&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;gpu-server-in-bigai-server-room&#34;&gt;GPU Server in BIGAI Server Room&lt;/h3&gt;
+&lt;p&gt;We currently have 4 GPU servers in BIGAI Server Room: &lt;code&gt;snape&lt;/code&gt;, &lt;code&gt;lupin&lt;/code&gt;, &lt;code&gt;sirius&lt;/code&gt; and &lt;code&gt;dobby&lt;/code&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;direct-connection-in-bigai-network&#34;&gt;Direct Connection in BIGAI Network&lt;/h4&gt;
+&lt;p&gt;When you&amp;rsquo;re connected to BIGAI&amp;rsquo;s network directly or via BIGAI VPN, you can directly access them with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ssh USERNAME@HOSTNAME.gpu.tongclass.ac.cn
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;E.g. to login to &lt;code&gt;dobby&lt;/code&gt; with username &lt;code&gt;john&lt;/code&gt;, use:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ssh john@dobby.gpu.tongclass.ac.cn
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
