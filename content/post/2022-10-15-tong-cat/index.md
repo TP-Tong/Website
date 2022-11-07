@@ -21,7 +21,6 @@ image:
 - 代号：通猫
 - [主页](https://tongclass.ac.cn/author/xueni-tong-tong/)
 
-![](http://assets.tongclass.ac.cn/posts/2022/10-15/tong-cat/tong-cat_1.png)
 ![](http://assets.tongclass.ac.cn/posts/2022/10-15/tong-cat/tong-cat_2.png)
 
 

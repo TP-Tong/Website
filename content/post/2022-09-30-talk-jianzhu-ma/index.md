@@ -9,15 +9,16 @@ image:
 
 <!--more-->
 
-![](https://assets.tongclass.ac.cn/posts/2022/09-30/talk-jianzhu-ma/1.jpeg)
-
 马剑竹老师主要研究方向是生物信息学和计算生物学、药物研发、深度学习等。目前致力于开发将患者数据用于疾病精确诊断和治疗的计算模型。
 
-![](https://assets.tongclass.ac.cn/posts/2022/09-30/talk-jianzhu-ma/2.jpeg)
 
 ## ML in Computational Biology
 
-马剑竹老师以生物制药为例，深入浅出地介绍了计算生物学中的机器学习。与计算机视觉比，计算生物学的人才相对稀缺。计算生物学可将制药、蛋白质等生物学问题与机器学习等手段紧密结合，具体任务包括靶点预测、药物分子设计、3D结构预测等。DeepMind的AlphaFold2将有关蛋白质结构的物理和生物知识利用多序列比对，融入深度机器学习的算法设计中，在蛋白质结构预测领域十分成功，被Science评为2021年最重要的科学突破之一。
+马剑竹老师以生物制药为例，深入浅出地介绍了计算生物学中的机器学习。
+
+![](https://assets.tongclass.ac.cn/posts/2022/09-30/talk-jianzhu-ma/1.jpeg)
+
+与计算机视觉比，计算生物学的人才相对稀缺。计算生物学可将制药、蛋白质等生物学问题与机器学习等手段紧密结合，具体任务包括靶点预测、药物分子设计、3D结构预测等。DeepMind的AlphaFold2将有关蛋白质结构的物理和生物知识利用多序列比对，融入深度机器学习的算法设计中，在蛋白质结构预测领域十分成功，被Science评为2021年最重要的科学突破之一。
 
 
 ![](https://assets.tongclass.ac.cn/posts/2022/09-30/talk-jianzhu-ma/3.png)
