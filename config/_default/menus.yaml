@@ -10,9 +10,12 @@ main:
   # - name: 成员
   #   url: people
   #   weight: 20
+  - name: 信息
+    url: info
+    weight: 30
   - name: 成果
     url: publication
-    weight: 30
+    weight: 40
   - name: 关于
     url: about
-    weight: 40
+    weight: 50
