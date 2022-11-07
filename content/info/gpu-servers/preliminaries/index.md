@@ -5,7 +5,7 @@ toc: false
 date: false
 ---
 
-We provides resources to learn preliminaries for using computing servers.
+We provides resources to learn preliminaries for using computing servers. Remember that it's common to be frustrated dealing with a command line Linux and other new tech stuffs, but you will master it after try-and-errors with repeated practice. Good luck!
 
 <!-- more -->
 
@@ -27,9 +27,11 @@ You should work in virtual environments to isolate packages among your projects 
 
 - [An Intro to Anaconda](https://zhuanlan.zhihu.com/p/351348108)
 
-> The latest Anaconda installer can be found on the server. See [Useful Resources](#Useful Resources)
+## Docker
 
+For environments that requires system-level dependencies, please use Docker. [This tutorial](https://docker-curriculum.com) provides detail information that helps you understand and use docker.
 
+> Note that in our current setting, you can manage all the docker containers (including others) on the machine. Please DO NOT use or delete containers that you do not own.
 
 ## SSH
 

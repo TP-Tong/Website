@@ -5,15 +5,12 @@ toc: false
 date: false
 ---
 
-Please contact [Yuyang Li](https://yuyangli.com) for more information. Note that you can only access them
-
+Please contact [Yuyang Li](https://yuyangli.com) for more information. 
 <!-- more -->
 
 ## Preliminaries
 
 To make sure that you're capable of using a server for computation, it's suggested that you go through [this guide](/info/gpu-servers/gpu-server-prelinilaries/) several stuffs as preliminaries.
-
-Remember that it's common to be frustrated dealing with a command line Linux and other new tech stuffs, but you will master it after try-and-errors. Good luck!
 
 ## Login to the Servers
 

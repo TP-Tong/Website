@@ -636,11 +636,27 @@
     </item>
     
     <item>
+      <title>Plagiarism</title>
+      <link>https://tongclass.ac.cn/info/plagiarism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/info/plagiarism/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://xgb.pku.edu.cn/xwgf/xwgf/98163.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;北京大学学生违纪处分办法&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://xsgf.pku.edu.cn/xzgf/gftl/1297227.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;北京大学研究生基本学术规范&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dean.pku.edu.cn/web/student_info.php?type=3&amp;amp;id=49&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;北京大学考试纪律&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tsinghua.edu.cn/info/1094/82877.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;清华大学学生纪律处分管理规定&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tsinghua.edu.cn/info/1090/1326.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;清华大学预防与处理学术不端行为办法&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tsinghua.edu.cn/info/1091/83903.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;清华大学考试违规行为的处理办法&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Preliminaries</title>
       <link>https://tongclass.ac.cn/info/gpu-servers/preliminaries/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://tongclass.ac.cn/info/gpu-servers/preliminaries/</guid>
-      <description>&lt;p&gt;We provides resources to learn preliminaries for using computing servers.&lt;/p&gt;
+      <description>&lt;p&gt;We provides resources to learn preliminaries for using computing servers. Remember that it&amp;rsquo;s common to be frustrated dealing with a command line Linux and other new tech stuffs, but you will master it after try-and-errors with repeated practice. Good luck!&lt;/p&gt;
 &lt;!-- more --&gt;
 &lt;h2 id=&#34;linux&#34;&gt;Linux&lt;/h2&gt;
 &lt;p&gt;Instead of fully learning Linux, you can just go through:&lt;/p&gt;
@@ -660,8 +676,10 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/351348108&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An Intro to Anaconda&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;docker&#34;&gt;Docker&lt;/h2&gt;
+&lt;p&gt;For environments that requires system-level dependencies, please use Docker. &lt;a href=&#34;https://docker-curriculum.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This tutorial&lt;/a&gt; provides detail information that helps you understand and use docker.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;The latest Anaconda installer can be found on the server. See [Useful Resources](#Useful Resources)&lt;/p&gt;
+&lt;p&gt;Note that in our current setting, you can manage all the docker containers (including others) on the machine. Please DO NOT use or delete containers that you do not own.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;ssh&#34;&gt;SSH&lt;/h2&gt;
 &lt;p&gt;You need SSH to login to the server:&lt;/p&gt;
@@ -678,11 +696,10 @@
       <link>https://tongclass.ac.cn/info/gpu-servers/thu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://tongclass.ac.cn/info/gpu-servers/thu/</guid>
-      <description>&lt;p&gt;Please contact &lt;a href=&#34;https://yuyangli.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yuyang Li&lt;/a&gt; for more information. Note that you can only access them&lt;/p&gt;
+      <description>&lt;p&gt;Please contact &lt;a href=&#34;https://yuyangli.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yuyang Li&lt;/a&gt; for more information.&lt;/p&gt;
 &lt;!-- more --&gt;
 &lt;h2 id=&#34;preliminaries&#34;&gt;Preliminaries&lt;/h2&gt;
 &lt;p&gt;To make sure that you&amp;rsquo;re capable of using a server for computation, it&amp;rsquo;s suggested that you go through &lt;a href=&#34;https://tongclass.ac.cn/info/gpu-servers/gpu-server-prelinilaries/&#34;&gt;this guide&lt;/a&gt; several stuffs as preliminaries.&lt;/p&gt;
-&lt;p&gt;Remember that it&amp;rsquo;s common to be frustrated dealing with a command line Linux and other new tech stuffs, but you will master it after try-and-errors. Good luck!&lt;/p&gt;
 &lt;h2 id=&#34;login-to-the-servers&#34;&gt;Login to the Servers&lt;/h2&gt;
 &lt;p&gt;Of note, &lt;strong&gt;using SSH keys as the login method is a must for remote login for security reasons&lt;/strong&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;gpu-servers-in-thu-central-building-room-501&#34;&gt;GPU Servers in THU Central Building Room 501&lt;/h3&gt;
