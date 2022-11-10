@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhihao Cao | 通用人工智能实验班</title>
+    <link>https://tongclass.ac.cn/author/zhihao-cao/</link>
+      <atom:link href="https://tongclass.ac.cn/author/zhihao-cao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhihao Cao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://tongclass.ac.cn/author/zhihao-cao/avatar_hu85ff20e7655304dbe5a313e44ec12679_447340_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Zhihao Cao</title>
+      <link>https://tongclass.ac.cn/author/zhihao-cao/</link>
+    </image>
+    
+  </channel>
+</rss>
