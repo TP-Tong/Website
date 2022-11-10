@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>通用人工智能实验班</title>
+    <link>https://tongclass.ac.cn/</link>
+      <atom:link href="https://tongclass.ac.cn/index.xml" rel="self" type="application/rss+xml" />
+    <description>通用人工智能实验班</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tongclass.ac.cn/media/icon_hu444d86ff9c8bc6b3e6f8c2a3492878e5_142951_512x512_fill_lanczos_center_3.png</url>
+      <title>通用人工智能实验班</title>
+      <link>https://tongclass.ac.cn/</link>
+    </image>
+    
+    <item>
+      <title>Example Event</title>
+      <link>https://tongclass.ac.cn/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/event/example/</guid>
+      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Object-Centric Learning with Bi-Level Optimized Query Slot Attention</title>
+      <link>https://tongclass.ac.cn/publication/2022/bo-qsa/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/publication/2022/bo-qsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>通班吉祥物 | 我叫雪泥，来自人工智能研究院！</title>
+      <link>https://tongclass.ac.cn/post/2022-10-15-tong-cat/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/post/2022-10-15-tong-cat/</guid>
+      <description>&lt;p&gt;快来认识下通班的吉祥物“雪泥”吧！&lt;/p&gt;
+&lt;h2 id=&#34;个人档案&#34;&gt;个人档案&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://assets.tongclass.ac.cn/posts/2022/10-15/tong-cat/tong-cat_0.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;姓名：雪泥&lt;/li&gt;
+&lt;li&gt;小名：通通（毕竟我是通班吉祥物）&lt;/li&gt;
+&lt;li&gt;曾用名：图图（因为我小时候耳朵很大，像大耳朵图图，也因为我有缘来到了“一塔湖图”的北大）&lt;/li&gt;
+&lt;li&gt;昵称：圆圆、团团、园园、囡囡（虽然我是男孩子）&lt;/li&gt;
+&lt;li&gt;学号：22TONG001&lt;/li&gt;
+&lt;li&gt;代号：通猫&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tongclass.ac.cn/author/xueni-tong-tong/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;主页&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://assets.tongclass.ac.cn/posts/2022/10-15/tong-cat/tong-cat_2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;我为什么叫雪泥&#34;&gt;我为什么叫“雪泥”？&lt;/h2&gt;
+&lt;p&gt;我通身雪白，脸上、嘴周有些黑灰，像是可爱的小泥点儿，因此叫“雪泥”。或者你也可以说我的名字是有出处的——“人生到处知何似，应似飞鸿踏雪泥”，这是苏东坡对人生旅途的描摹。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://assets.tongclass.ac.cn/posts/2022/10-15/tong-cat/tong-cat_3.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://assets.tongclass.ac.cn/posts/2022/10-15/tong-cat/tong-cat_4.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;我的爱好&#34;&gt;我的爱好&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;喜欢在猫爬架上活动筋骨&lt;/li&gt;
+&lt;li&gt;喜欢你拿逗猫棒陪我玩儿&lt;/li&gt;
+&lt;li&gt;喜欢你用小梳子给我梳理毛发&lt;/li&gt;
+&lt;li&gt;喜欢你轻轻抚摸我&lt;/li&gt;
+&lt;li&gt;喜欢你胡噜我的下巴、脑袋和后背&lt;/li&gt;
+&lt;li&gt;如果我发出咕噜咕噜的声音，表示我很喜欢你~&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://assets.tongclass.ac.cn/posts/2022/10-15/tong-cat/tong-cat_5.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://assets.tongclass.ac.cn/posts/2022/10-15/tong-cat/tong-cat_6.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;open-office-hour-x&#34;&gt;Open Office Hour (x)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;欢迎老师同学们到体斋来和我玩！&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;时间：周末或周五的上午9-11点，下午3-5点&lt;/li&gt;
+&lt;li&gt;地点：未名湖边的体斋一楼（可以导航过来）&lt;/li&gt;
+&lt;li&gt;注意事项：
+&lt;ol&gt;
+&lt;li&gt;注意关好大门不要让我溜走了&lt;/li&gt;
+&lt;li&gt;和我互动之前注意洗手（进大门右手边洗手间）&lt;/li&gt;
+&lt;li&gt;注意饮食安全，请勿投喂&lt;/li&gt;
+&lt;li&gt;玩一会儿就好，我还小不能太兴奋~&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://assets.tongclass.ac.cn/posts/2022/10-15/tong-cat/tong-cat_7.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://assets.tongclass.ac.cn/posts/2022/10-15/tong-cat/tong-cat_8.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://assets.tongclass.ac.cn/posts/2022/10-15/tong-cat/tong-cat_9.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;猫猫表情包&#34;&gt;猫猫表情包&lt;/h2&gt;
+&lt;p&gt;最后送上猫猫表情包，以及曾经青葱的我~&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://assets.tongclass.ac.cn/posts/2022/10-15/tong-cat/tong-cat_meme_0.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://assets.tongclass.ac.cn/posts/2022/10-15/tong-cat/tong-cat_meme_1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://assets.tongclass.ac.cn/posts/2022/10-15/tong-cat/tong-cat_meme_3.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://assets.tongclass.ac.cn/posts/2022/10-15/tong-cat/tong-cat_meme_4.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;转载自 &lt;a href=&#34;https://mp.weixin.qq.com/s/Xj10ahQwOAVC2na1gSY3AA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;北京大学人工智能研究院推文&lt;/a&gt;，原文作者：李世乾、李世坤、王潇语、胡方芳、于亚丽。&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>通元识广 | 邓小铁老师交流会</title>
+      <link>https://tongclass.ac.cn/post/2022-10-14-talk-xiaotie-deng/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/post/2022-10-14-talk-xiaotie-deng/</guid>
+      <description>&lt;p&gt;10月14日，元培学院2021级通班与北京大学前沿计算研究中心讲席教授邓小铁、前沿计算研究中心2022级博士研究生李翰禹、元培学院2019级本科生唐静吾在35楼B107会议室举行交流会。&lt;/p&gt;
+&lt;h3 id=&#34;邓小铁老师介绍&#34;&gt;邓小铁老师介绍&lt;/h3&gt;
+&lt;p&gt;邓小铁老师致力于大数据时代算法的理论和应用以及与大量参与者交互作用的原理及优化，研究工作包括互联网经济中最优拍卖算法，平台竞争分析，互联网中性原则，区块链技术应用，生物3D重构和材料基因组中深度机器学习方法。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;From: &lt;a href=&#34;https://upimg.baike.so.com/doc/2843335-3000575.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://upimg.baike.so.com/doc/2843335-3000575.html&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://assets.tongclass.ac.cn/posts/2022/10-14/talk-xiaotie-deng/1.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;about-discrete-mathematics&#34;&gt;About Discrete Mathematics&lt;/h2&gt;
+&lt;p&gt;作为本学期离散数学的负责人，邓小铁教授先为同学们介绍离散数学开课的起因，同时也向同学们说明了除了离散数学，北大在连续数学方面的优势。&lt;/p&gt;
+&lt;p&gt;北京大学数学基础雄厚，集合论与图论、代数与组合、数理逻辑是北京大学开设的优质课程，随着图灵班的组建，在借鉴美国多所知名大学的经验后，北大立足实际情况，将三门课程糅合为一门离散数学的情况下，保持了北大数学原有的深度与高标准。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://assets.tongclass.ac.cn/posts/2022/10-14/talk-xiaotie-deng/2.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;在国外计算机教学普遍重离散而轻连续的情况下，北大坚持连续数学与离散数学并重，凭借北京大学雄厚的数学教学资源，为同学们打下了深厚的数学基础。而事实证明，随着AI的发展，连续数学逐渐在ML等领域得到应用并取得了一系列成果，北大学生凭借良好的连续数学基础，得以在与其他大学学生的竞争中占据优势。&lt;/p&gt;
+&lt;h2 id=&#34;about-ai&#34;&gt;About AI&lt;/h2&gt;
+&lt;p&gt;邓老师也就AI的发展、本科生的成长与同学们做了交流。
+邓老师认为，同学们应该打开眼界，除了当前主流的ML与DL，也应该积极探索AI的其他领域、其他可能。邓老师说：AI的一个重要的价值观就是探索其他可能性，并以数理逻辑这条AI可能的新路为例对同学们做了解释。&lt;/p&gt;
+&lt;p&gt;此外，邓老师也就人机关系、对世界的认知等方面谈了谈他对未来AI的看法。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://assets.tongclass.ac.cn/posts/2022/10-14/talk-xiaotie-deng/3.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;最后，邓老师鼓励同学们打好连续数学与离散数学的基础，鼓励大家参与本科科研，在人工智能领域积极探索，注重知识的广度与深度。&lt;/p&gt;
+&lt;h2 id=&#34;experience-from-senior-students&#34;&gt;Experience From Senior Students&lt;/h2&gt;
+&lt;p&gt;李翰禹学长先为我们讲述了他的大学生活，如何从毫无基础、并不成功的大一，逐渐掌握学习方法、树立自信，并尝试参与科研并取得丰硕成果。接着为我们介绍了他目前的科研方向，在为我们介绍了纳什均衡后，介绍了在计算机实数表达不准确的情况下，如何将连续数学引入计算机，并利用梯度下降算法，探索在有误差的情况下，理论预测的结果与实际计算机模拟得到的结果是否相似。&lt;/p&gt;
+&lt;p&gt;李翰禹学长通过自己的亲身经历勉励同学们：无论身处怎样的境地，都要保持积极乐观的心态，都不要放弃学习。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://assets.tongclass.ac.cn/posts/2022/10-14/talk-xiaotie-deng/4.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;通过本次交流会，同学们对于离散课程的设计理念、学习方法有了更多的了解，从邓老师和学长的讲述中，同学们也了解了计算机理论研究的具体问题，思考人工智能未来的发展方向。此外，学长的经验分享也引起了大家的共鸣，启发同学们正确看待遇到的困难，更好地迎接学习和科研中的挑战。&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;文案：管振宇 肖茜之&lt;/li&gt;
+&lt;li&gt;摄影：吴尚霖&lt;/li&gt;
+&lt;li&gt;排版：肖茜之&lt;/li&gt;
+&lt;li&gt;策划：2021级通班班委会&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;感谢北京大学人工智能研究院和北京市通用人工智能研究院对本活动的大力支持！&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>GenDexGrasp: Generalizable Dexterous Grasping</title>
+      <link>https://tongclass.ac.cn/publication/2022/gendexgrasp/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/publication/2022/gendexgrasp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tongclass.ac.cn/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tongclass.ac.cn/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Courses</title>
+      <link>https://tongclass.ac.cn/info/academic/courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/info/academic/courses/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;PKU
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cv.yzhu.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[04835030] Computer Vision&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://core.yzhu.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[22530005/04835070/04804023] Cognitive Reasoning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://summer.yzhu.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[22530001] Directed Research in AI System (I)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;THU
+&lt;ul&gt;
+&lt;li&gt;Pending&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Free GPU Resources</title>
+      <link>https://tongclass.ac.cn/info/gpu-servers/free-gpu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/info/gpu-servers/free-gpu/</guid>
+      <description>&lt;p&gt;Here are some generally available GPU resources.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://colab.research.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Colab&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kaggle.com/code/dansbecker/running-kaggle-kernels-with-a-gpu/notebook&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaggle Free GPU&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tianchi.aliyun.com/?spm=5176.20222498.J_3941670930.2.fa0f2a1fPgZ9O9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alibaba Tianchi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Plagiarism</title>
+      <link>https://tongclass.ac.cn/info/academic/plagiarism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/info/academic/plagiarism/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://xgb.pku.edu.cn/xwgf/xwgf/98163.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;北京大学学生违纪处分办法&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://xsgf.pku.edu.cn/xzgf/gftl/1297227.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;北京大学研究生基本学术规范&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dean.pku.edu.cn/web/student_info.php?type=3&amp;amp;id=49&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;北京大学考试纪律&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tsinghua.edu.cn/info/1094/82877.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;清华大学学生纪律处分管理规定&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tsinghua.edu.cn/info/1090/1326.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;清华大学预防与处理学术不端行为办法&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tsinghua.edu.cn/info/1091/83903.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;清华大学考试违规行为的处理办法&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preliminaries</title>
+      <link>https://tongclass.ac.cn/info/gpu-servers/preliminaries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/info/gpu-servers/preliminaries/</guid>
+      <description>&lt;p&gt;We provides resources to learn preliminaries for using computing servers. Remember that it&amp;rsquo;s common to be frustrated dealing with a command line Linux and other new tech stuffs, but you will master it after try-and-errors with repeated practice. Good luck!&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;h2 id=&#34;linux&#34;&gt;Linux&lt;/h2&gt;
+&lt;p&gt;Instead of fully learning Linux, you can just go through:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.runoob.com/linux/linux-intro.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An Intro to Linux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.runoob.com/linux/linux-system-contents.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linux System Contents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.runoob.com/linux/linux-remote-login.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Remote Login (with PuTTY)&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Note that you can also login with &lt;code&gt;ssh&lt;/code&gt; command or other softwares like Termius and VSCode&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.runoob.com/linux/linux-file-attr-permission.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;File Attributes and Permissions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.runoob.com/linux/linux-vim.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vi/Vim&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conda&#34;&gt;Conda&lt;/h2&gt;
+&lt;p&gt;You should work in virtual environments to isolate packages among your projects to avoid bad dependencies. You can go through:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/351348108&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An Intro to Anaconda&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;docker&#34;&gt;Docker&lt;/h2&gt;
+&lt;p&gt;For environments that requires system-level dependencies, please use Docker. &lt;a href=&#34;https://docker-curriculum.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This tutorial&lt;/a&gt; provides detail information that helps you understand and use docker.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Note that in our current setting, you can manage all the docker containers (including others) on the machine. Please DO NOT use or delete containers that you do not own.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;ssh&#34;&gt;SSH&lt;/h2&gt;
+&lt;p&gt;You need SSH to login to the server:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ssh USERNAME@URL -p PORT
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Note that you should change the &lt;code&gt;USERNAME&lt;/code&gt; and &lt;code&gt;PORT&lt;/code&gt; to your account name and the server port. E.g. To login to the server at &lt;code&gt;server.net&lt;/code&gt; on the port &lt;code&gt;23333&lt;/code&gt; with account &lt;code&gt;alice&lt;/code&gt;, use:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ssh alice@server.net -p &lt;span class=&#34;m&#34;&gt;23333&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;with &lt;code&gt;PORT&lt;/code&gt; unspecified, the SSH default port &lt;code&gt;22&lt;/code&gt; is used.&lt;/p&gt;
+&lt;p&gt;For more information, You can go through &lt;a href=&#34;https://wangdoc.com/ssh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this SSH guide&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>THU Servers</title>
+      <link>https://tongclass.ac.cn/info/gpu-servers/thu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/info/gpu-servers/thu/</guid>
+      <description>&lt;p&gt;Please contact &lt;a href=&#34;https://yuyangli.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yuyang Li&lt;/a&gt; for more information.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;h2 id=&#34;preliminaries&#34;&gt;Preliminaries&lt;/h2&gt;
+&lt;p&gt;To make sure that you&amp;rsquo;re capable of using a server for computation, it&amp;rsquo;s suggested that you go through &lt;a href=&#34;https://tongclass.ac.cn/info/gpu-servers/gpu-server-prelinilaries/&#34;&gt;this guide&lt;/a&gt; several stuffs as preliminaries.&lt;/p&gt;
+&lt;h2 id=&#34;login-to-the-servers&#34;&gt;Login to the Servers&lt;/h2&gt;
+&lt;p&gt;Of note, &lt;strong&gt;using SSH keys as the login method is a must for remote login for security reasons&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;gpu-servers-in-thu-central-building-room-501&#34;&gt;GPU Servers in THU Central Building Room 501&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;It&amp;rsquo;s strongly recommended to go to Room 501 to use the machines in person, where you can access not only GUI desktops, but also guidance and help from our TAs.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;To access remotely, &lt;strong&gt;please use &lt;code&gt;501.gpu.tongclass.ac.cn&lt;/code&gt; with specified ports&lt;/strong&gt;, depending on the machine allocated to you. Please see the internally-shared Google doc or contact the TAs for information. E.g. your username is john, and you&amp;rsquo;ve been allocated the server &lt;code&gt;appleseed&lt;/code&gt;, which in on the port &lt;code&gt;23333&lt;/code&gt; according to the doc, so you login to the server with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ssh john@501.gpu.tongclass.ac.cn -p &lt;span class=&#34;m&#34;&gt;23333&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;gpu-server-in-bigai-server-room&#34;&gt;GPU Server in BIGAI Server Room&lt;/h3&gt;
+&lt;p&gt;We currently have 4 GPU servers in BIGAI Server Room: &lt;code&gt;snape&lt;/code&gt;, &lt;code&gt;lupin&lt;/code&gt;, &lt;code&gt;sirius&lt;/code&gt; and &lt;code&gt;dobby&lt;/code&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;direct-connection-in-bigai-network&#34;&gt;Direct Connection in BIGAI Network&lt;/h4&gt;
+&lt;p&gt;When you&amp;rsquo;re connected to BIGAI&amp;rsquo;s network directly or via BIGAI VPN, you can directly access them with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ssh USERNAME@HOSTNAME.gpu.tongclass.ac.cn
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;E.g. to login to &lt;code&gt;dobby&lt;/code&gt; with username &lt;code&gt;john&lt;/code&gt;, use:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ssh john@dobby.gpu.tongclass.ac.cn
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>关于通班</title>
+      <link>https://tongclass.ac.cn/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/about/</guid>
+      <description>&lt;p&gt;了解通班，请参考：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://yzhu.io/misc/tong/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;通班相关报道&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;此页面陆续补全中。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>动态</title>
+      <link>https://tongclass.ac.cn/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>清华通班信息网络技术委员会</title>
+      <link>https://tongclass.ac.cn/info/arch/tech-committee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/info/arch/tech-committee/</guid>
+      <description>&lt;h2 id=&#34;管理办法&#34;&gt;管理办法&lt;/h2&gt;
+&lt;p&gt;为保证清华大学通班暑期实训，各课题组项目及实习生等科研学习工作的顺利进行，进一步培养和建设通用人工智能人才队伍，重点解决相关网络技术问题，为清华通班学生在清华开展的各项网络技术工作提供决策、指导。经研究，决定成立清华通班信息网络技术委员会，并制定&lt;a href=&#34;https://assets.tongclass.ac.cn/management/tech-committee/%E6%B8%85%E5%8D%8E%E9%80%9A%E7%8F%AD%E4%BF%A1%E6%81%AF%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF%E5%A7%94%E5%91%98%E4%BC%9A%E7%AE%A1%E7%90%86%E5%8A%9E%E6%B3%95_20221110.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;清华通班信息网络技术委员会管理办法&lt;/a&gt;。&lt;/p&gt;
+&lt;h2 id=&#34;委员&#34;&gt;委员&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;指导老师：赵梦柳、马煜曦&lt;/li&gt;
+&lt;li&gt;2021 级：张耘天、唐春洋、罗庆典&lt;/li&gt;
+&lt;li&gt;2020 级：李宇飏、刘宇&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>清华通班文化建设委员会</title>
+      <link>https://tongclass.ac.cn/info/arch/culture-committee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/info/arch/culture-committee/</guid>
+      <description>&lt;h2 id=&#34;管理办法&#34;&gt;管理办法&lt;/h2&gt;
+&lt;p&gt;为全面贯彻落实通用人工智能方向的卓越人才培养计划，进一步弘扬学术精神，提高科研创新能力，培养团队凝聚力。规范清华通班文化建设工作，共同营造积极良好的文化氛围，并充分发挥每个组织单元的力量，制定&lt;a href=&#34;https://assets.tongclass.ac.cn/management/culture-committee/%E6%B8%85%E5%8D%8E%E9%80%9A%E7%8F%AD%E6%96%87%E5%8C%96%E5%BB%BA%E8%AE%BE%E5%A7%94%E5%91%98%E4%BC%9A%E7%AE%A1%E7%90%86%E5%8A%9E%E6%B3%95_20221110.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;清华通班文化建设委员会管理办法&lt;/a&gt;。&lt;/p&gt;
+&lt;h2 id=&#34;委员&#34;&gt;委员&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;指导老师：赵梦柳、马煜曦&lt;/li&gt;
+&lt;li&gt;2021 级：张竞择、杨馨惟&lt;/li&gt;
+&lt;li&gt;2020 级：刘宇、曹智昊&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

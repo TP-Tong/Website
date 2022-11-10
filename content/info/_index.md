@@ -3,6 +3,7 @@ title: Information Syndication
 type: book # Do not modify.
 toc: false
 date: false
+weight: 50
 ---
 
 These pages gather useful information for Tong Class students.
