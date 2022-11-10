@@ -1,7 +1,7 @@
 ---
 title: Free GPU Resources
 type: book
-toc: false
+toc: true
 date: false
 ---
 

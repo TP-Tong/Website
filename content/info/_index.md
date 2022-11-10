@@ -1,7 +1,7 @@
 ---
 title: Information Syndication
 type: book # Do not modify.
-toc: false
+toc: true
 date: false
 weight: 50
 ---

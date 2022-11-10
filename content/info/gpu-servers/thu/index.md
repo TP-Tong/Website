@@ -1,7 +1,7 @@
 ---
 title: THU Servers
 type: book
-toc: false
+toc: true
 date: false
 ---
 

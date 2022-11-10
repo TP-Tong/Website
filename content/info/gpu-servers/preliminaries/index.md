@@ -1,7 +1,7 @@
 ---
 title: Preliminaries
 type: book
-toc: false
+toc: true
 date: false
 ---
 
