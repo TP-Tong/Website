@@ -1,5 +1,8 @@
 ---
 title: Plagiarism
+type: book # Do not modify.
+toc: false
+date: false
 ---
 
 - [北京大学学生违纪处分办法](https://xgb.pku.edu.cn/xwgf/xwgf/98163.htm)

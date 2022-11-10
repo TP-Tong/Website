@@ -644,10 +644,47 @@
     </item>
     
     <item>
-      <title>Plagiarism</title>
-      <link>https://tongclass.ac.cn/info/plagiarism/</link>
+      <title>Courses</title>
+      <link>https://tongclass.ac.cn/info/academic/courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://tongclass.ac.cn/info/plagiarism/</guid>
+      <guid>https://tongclass.ac.cn/info/academic/courses/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;PKU
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cv.yzhu.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[04835030] Computer Vision&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://core.yzhu.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[22530005/04835070/04804023] Cognitive Reasoning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://summer.yzhu.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[22530001] Directed Research in AI System (I)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;THU
+&lt;ul&gt;
+&lt;li&gt;Pending&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Free GPU Resources</title>
+      <link>https://tongclass.ac.cn/info/gpu-servers/free-gpu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/info/gpu-servers/free-gpu/</guid>
+      <description>&lt;p&gt;Here are some generally available GPU resources.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://colab.research.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Colab&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kaggle.com/code/dansbecker/running-kaggle-kernels-with-a-gpu/notebook&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaggle Free GPU&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tianchi.aliyun.com/?spm=5176.20222498.J_3941670930.2.fa0f2a1fPgZ9O9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alibaba Tianchi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Plagiarism</title>
+      <link>https://tongclass.ac.cn/info/academic/plagiarism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/info/academic/plagiarism/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://xgb.pku.edu.cn/xwgf/xwgf/98163.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;北京大学学生违纪处分办法&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://xsgf.pku.edu.cn/xzgf/gftl/1297227.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;北京大学研究生基本学术规范&lt;/a&gt;&lt;/li&gt;
