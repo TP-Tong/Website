@@ -1,6 +1,6 @@
 ---
 title: 暑期实践 | 清华通班“通情达理”支队赴云南大理州开展实践调研
-date: 2022-10-14
+date: 2022-09-01
 image:
   focal_point: 'bottom'
 ---
@@ -74,18 +74,12 @@ image:
 ---
 
 > 本文转自[「通情达理」微信公众号文章](https://mp.weixin.qq.com/s/7KekmE5WchpaR_jN9GjEcQ)。相关推送链接：
-> 
-> [“通情达理” | 通班赴大理实践预告](http://mp.weixin.qq.com/s?__biz=MzkzNzM5ODE4OQ==&mid=2247483665&idx=1&sn=25cce0fe4c7ec6977bc87923c2f64445&chksm=c2915bd3f5e6d2c5876f29e71d042b33eb8303624e88cc06f2653de257e36b7f0cce6bcc61a6&scene=21#wechat_redirect)
->
-> [实践日志 | 走近下关一中学子](http://mp.weixin.qq.com/s?__biz=MzkzNzM5ODE4OQ==&mid=2247483673&idx=1&sn=0129bc11f74d495db8a5159713ec0ca5&chksm=c2915bdbf5e6d2cda1b461a282c106eca3a156b98079866ddee50f6d1606040c9a6cd9715351&scene=21#wechat_redirect)
->
-> [实践日志 | 大理南涧一中调研](http://mp.weixin.qq.com/s?__biz=MzkzNzM5ODE4OQ==&mid=2247483684&idx=1&sn=505f43b64b8abe417347368d72ff6eb8&chksm=c2915be6f5e6d2f0d45a0eec29aba0e466a0f75eb58b1f83290c6100c7b6341d25767b2b50a0&scene=21#wechat_redirect)
->
-> [实践日志丨大理社会教育资源调研](http://mp.weixin.qq.com/s?__biz=MzkzNzM5ODE4OQ==&mid=2247483696&idx=1&sn=b647f4d3f845d9abe949822851a87061&chksm=c2915bf2f5e6d2e47e79c4a2bd36e96d7bb559ece02a71af506daec404ee9d80c933afcb7cc2&scene=21#wechat_redirect)
->
-> [实践日志丨云南省下关第一中学调研](http://mp.weixin.qq.com/s?__biz=MzkzNzM5ODE4OQ==&mid=2247483705&idx=1&sn=429cc4e3c98801923074eb2be4f2be83&chksm=c2915bfbf5e6d2ed06e20f76541377a322924cf48f5d3930737443ee992328c898b0da67fc48&scene=21#wechat_redirect)
->
-> [实践日志丨大理州教育体育局调研](http://mp.weixin.qq.com/s?__biz=MzkzNzM5ODE4OQ==&mid=2247483710&idx=1&sn=ac313f88571f77579b8395ed9b2c29f8&chksm=c2915bfcf5e6d2eabf54cb2126be0377003a87e8c817929d332eac2a1d33ceca3dcaefa84860&scene=21#wechat_redirect)
+> - [“通情达理” | 通班赴大理实践预告](http://mp.weixin.qq.com/s?__biz=MzkzNzM5ODE4OQ==&mid=2247483665&idx=1&sn=25cce0fe4c7ec6977bc87923c2f64445&chksm=c2915bd3f5e6d2c5876f29e71d042b33eb8303624e88cc06f2653de257e36b7f0cce6bcc61a6&scene=21#wechat_redirect)
+> - [实践日志 | 走近下关一中学子](http://mp.weixin.qq.com/s?__biz=MzkzNzM5ODE4OQ==&mid=2247483673&idx=1&sn=0129bc11f74d495db8a5159713ec0ca5&chksm=c2915bdbf5e6d2cda1b461a282c106eca3a156b98079866ddee50f6d1606040c9a6cd9715351&scene=21#wechat_redirect)
+> - [实践日志 | 大理南涧一中调研](http://mp.weixin.qq.com/s?__biz=MzkzNzM5ODE4OQ==&mid=2247483684&idx=1&sn=505f43b64b8abe417347368d72ff6eb8&chksm=c2915be6f5e6d2f0d45a0eec29aba0e466a0f75eb58b1f83290c6100c7b6341d25767b2b50a0&scene=21#wechat_redirect)
+> - [实践日志丨大理社会教育资源调研](http://mp.weixin.qq.com/s?__biz=MzkzNzM5ODE4OQ==&mid=2247483696&idx=1&sn=b647f4d3f845d9abe949822851a87061&chksm=c2915bf2f5e6d2e47e79c4a2bd36e96d7bb559ece02a71af506daec404ee9d80c933afcb7cc2&scene=21#wechat_redirect)
+> - [实践日志丨云南省下关第一中学调研](http://mp.weixin.qq.com/s?__biz=MzkzNzM5ODE4OQ==&mid=2247483705&idx=1&sn=429cc4e3c98801923074eb2be4f2be83&chksm=c2915bfbf5e6d2ed06e20f76541377a322924cf48f5d3930737443ee992328c898b0da67fc48&scene=21#wechat_redirect)
+> - [实践日志丨大理州教育体育局调研](http://mp.weixin.qq.com/s?__biz=MzkzNzM5ODE4OQ==&mid=2247483710&idx=1&sn=ac313f88571f77579b8395ed9b2c29f8&chksm=c2915bfcf5e6d2eabf54cb2126be0377003a87e8c817929d332eac2a1d33ceca3dcaefa84860&scene=21#wechat_redirect)
 >
 
 - 图文 | 自动化系“通班”赴大理实践支队
