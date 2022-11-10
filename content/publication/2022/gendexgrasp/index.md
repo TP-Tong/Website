@@ -1,5 +1,5 @@
 ---
-title: 'GenDexGrasp'
+title: 'GenDexGrasp: Generalizable Dexterous Grasping'
 authors:
   - Puhao Li
   - Tengyu Liu
@@ -21,8 +21,8 @@ publishDate: '2022-10-10T00:00:00Z'
 publication_types: ['1', '3']
 
 # Publication name and optional abbreviated publication name.
-publication: 'International Conference on Robotics and Automation'
-publication_short: 'ICRA'
+publication: 'International Conference on Robotics and Automation (Submission)'
+publication_short: 'ICRA (Submission)'
 
 abstract: Generating dexterous grasping has been a long-standing and challenging robotic task. Despite recent progress, existing methods primarily suffer from two issues. First, most prior arts focus on a specific type of robot hand, lacking generalizable capability of handling unseen ones. Second, prior arts oftentimes fail to rapidly generate diverse grasps with a high success rate. To jointly tackle these challenges with a unified solution, we propose GenDexGrasp, a novel hand-agnostic grasping algorithm for generalizable grasping. GenDexGrasp is trained on our proposed large-scale multi-hand grasping dataset MultiDex synthesized with force closure optimization. By leveraging the contact map as a hand-agnostic intermediate representation, GenDexGrasp efficiently generates diverse and plausible grasping poses with a high success rate and can transfer among diverse multi-fingered robotic hands. Compared with previous methods, GenDexGrasp achieves a three-way trade-off among success rate, inference speed, and diversity.
 

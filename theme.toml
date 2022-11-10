@@ -1,7 +1,7 @@
-name = "Research Group"
+name = "通用人工智能实验班"
 license = "MIT"
 licenselink = "https://github.com/wowchemy/starter-hugo-research-group/blob/main/LICENSE.md"
-description = "The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form."
+description = "清华大学、北京大学通用人工智能实验班官方网站。"
 homepage = "https://github.com/wowchemy/starter-hugo-research-group"
 demosite = "https://research-group.netlify.app/"
 tags = ["academic",
@@ -31,7 +31,8 @@ tags = ["academic",
         "one page",
         "customizable",
         "technical",
-        "slide"
+        "slide",
+        "AI"
         ]
 features = ["page builder", "widgets", "themes", "search", "research publication system", "filterable portfolio",
             "blog", "create courses", "talks", "events", "slides", "gallery", "contact form"]
