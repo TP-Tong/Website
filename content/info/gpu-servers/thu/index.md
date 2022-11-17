@@ -8,7 +8,7 @@ date: false
 Please contact [Yuyang Li](https://yuyangli.com) for more information. 
 <!-- more -->
 
-## Serve Status
+## Server Status
 
 <!-- Use 🟢(up), 🟡 (under maintain), 🔴(down), ⚫ (unavailable) -->
 

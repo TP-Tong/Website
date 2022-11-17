@@ -876,7 +876,7 @@
       <guid>https://tongclass.ac.cn/info/gpu-servers/thu/</guid>
       <description>&lt;p&gt;Please contact &lt;a href=&#34;https://yuyangli.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yuyang Li&lt;/a&gt; for more information.&lt;/p&gt;
 &lt;!-- more --&gt;
-&lt;h2 id=&#34;serve-status&#34;&gt;Serve Status&lt;/h2&gt;
+&lt;h2 id=&#34;server-status&#34;&gt;Server Status&lt;/h2&gt;
 &lt;!-- Use 🟢(up), 🟡 (under maintain), 🔴(down), ⚫ (unavailable) --&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;Talented Terms&lt;/code&gt; (THU Central Building 501): &lt;code&gt;terms.gpu.tongclass.ac.cn&lt;/code&gt;
