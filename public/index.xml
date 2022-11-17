@@ -874,60 +874,58 @@
       <link>https://tongclass.ac.cn/info/gpu-servers/thu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://tongclass.ac.cn/info/gpu-servers/thu/</guid>
-      <description>&lt;p&gt;Please contact &lt;a href=&#34;https://yuyangli.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yuyang Li&lt;/a&gt; for more information.&lt;/p&gt;
+      <description>&lt;p&gt;To make sure that you&amp;rsquo;re capable of using a server for computation, it&amp;rsquo;s suggested that you go through &lt;a href=&#34;https://tongclass.ac.cn/info/gpu-servers/gpu-server-prelinilaries/&#34;&gt;this guide&lt;/a&gt; several stuffs as preliminaries. For more information, please contact &lt;a href=&#34;https://yuyangli.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yuyang Li&lt;/a&gt;.&lt;/p&gt;
 &lt;!-- more --&gt;
 &lt;h2 id=&#34;server-status&#34;&gt;Server Status&lt;/h2&gt;
-&lt;!-- Use 🟢(up), 🟡 (under maintain), 🔴(down), ⚫ (unavailable) --&gt;
+&lt;blockquote&gt;
+&lt;p&gt;🟢: Up; 🟡: Under maintain; 🔴: Down; ⚫: Unavailable.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;code&gt;Talented Terms&lt;/code&gt; (THU Central Building 501): &lt;code&gt;terms.gpu.tongclass.ac.cn&lt;/code&gt;
+&lt;li&gt;&lt;code&gt;Talented Terms&lt;/code&gt; (THU Central Building 501)
 &lt;ul&gt;
-&lt;li&gt;🟢 &lt;code&gt;adequate accuracy&lt;/code&gt; - UP&lt;/li&gt;
-&lt;li&gt;🟢 &lt;code&gt;bold bayesian&lt;/code&gt; - UP&lt;/li&gt;
-&lt;li&gt;🟢 &lt;code&gt;civil clustering&lt;/code&gt; - UP&lt;/li&gt;
-&lt;li&gt;🟢 &lt;code&gt;dynamic descrptive&lt;/code&gt; - UP&lt;/li&gt;
-&lt;li&gt;🟢 &lt;code&gt;exotic epoch&lt;/code&gt; - UP&lt;/li&gt;
-&lt;li&gt;🟢 &lt;code&gt;factual feature&lt;/code&gt; - UP&lt;/li&gt;
-&lt;li&gt;🟢 &lt;code&gt;grown genetic&lt;/code&gt; - UP&lt;/li&gt;
-&lt;li&gt;🟢 &lt;code&gt;honest heuristics&lt;/code&gt; - UP&lt;/li&gt;
-&lt;li&gt;🟢 &lt;code&gt;ideal inductive&lt;/code&gt; - UP&lt;/li&gt;
-&lt;li&gt;🟢 &lt;code&gt;just jacobian&lt;/code&gt; - UP&lt;/li&gt;
+&lt;li&gt;🟢 &lt;code&gt;adequate accuracy&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;🟢 &lt;code&gt;bold bayesian&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;🟢 &lt;code&gt;civil clustering&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;🟢 &lt;code&gt;dynamic descrptive&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;🟢 &lt;code&gt;exotic epoch&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;🟢 &lt;code&gt;factual feature&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;🟢 &lt;code&gt;grown genetic&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;🟢 &lt;code&gt;honest heuristics&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;🟢 &lt;code&gt;ideal inductive&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;🟢 &lt;code&gt;just jacobian&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Healthy Harry&lt;/code&gt; (BIGAI Server Room): &lt;code&gt;[HOSTNAME].gpu.tongclass.ac.cn&lt;/code&gt;
+&lt;li&gt;&lt;code&gt;Healthy Harry&lt;/code&gt; (BIGAI Server Room)
 &lt;ul&gt;
-&lt;li&gt;🔴 &lt;code&gt;smart snape&lt;/code&gt; - DOWN&lt;/li&gt;
-&lt;li&gt;🟢 &lt;code&gt;stable lupin&lt;/code&gt; - UP&lt;/li&gt;
-&lt;li&gt;🔴 &lt;code&gt;serious sirius&lt;/code&gt; - DOWN&lt;/li&gt;
-&lt;li&gt;🟢 &lt;code&gt;daring dobby&lt;/code&gt; - UP&lt;/li&gt;
+&lt;li&gt;🔴 &lt;code&gt;smart snape&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;🟢 &lt;code&gt;stable lupin&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;🔴 &lt;code&gt;serious sirius&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;🟢 &lt;code&gt;daring dobby&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Polished Peanuts&lt;/code&gt; (Thirdparty-maintained): &lt;code&gt;[HOSTNAME].gpu.tongclass.ac.cn&lt;/code&gt;
+&lt;li&gt;&lt;code&gt;Polished Peanuts&lt;/code&gt; (Thirdparty-maintained)
 &lt;ul&gt;
-&lt;li&gt;⚫ &lt;code&gt;stirred schultz&lt;/code&gt; - UNAVAILABLE, pending&amp;hellip;&lt;/li&gt;
-&lt;li&gt;⚫ &lt;code&gt;certain charlie&lt;/code&gt; - UNAVAILABLE, pending&amp;hellip;&lt;/li&gt;
-&lt;li&gt;⚫ &lt;code&gt;sweet snoopy&lt;/code&gt; - UNAVAILABLE, pending&amp;hellip;&lt;/li&gt;
-&lt;li&gt;⚫ &lt;code&gt;legal linus&lt;/code&gt; - UNAVAILABLE, pending&amp;hellip;&lt;/li&gt;
-&lt;li&gt;⚫ &lt;code&gt;lasting lucy&lt;/code&gt; - UNAVAILABLE, pending&amp;hellip;&lt;/li&gt;
-&lt;li&gt;⚫ &lt;code&gt;rare rerun&lt;/code&gt; - UNAVAILABLE, pending&amp;hellip;&lt;/li&gt;
+&lt;li&gt;⚫ &lt;code&gt;stirred schultz&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;⚫ &lt;code&gt;certain charlie&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;⚫ &lt;code&gt;sweet snoopy&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;⚫ &lt;code&gt;legal linus&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;⚫ &lt;code&gt;lasting lucy&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;⚫ &lt;code&gt;rare rerun&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;code&gt;Free Fish&lt;/code&gt;: Free GPU Resources, please refer to &lt;a href=&#34;https://tongclass.ac.cn/info/gpu-servers/free-gpu/&#34;&gt;this page&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;preliminaries&#34;&gt;Preliminaries&lt;/h2&gt;
-&lt;p&gt;To make sure that you&amp;rsquo;re capable of using a server for computation, it&amp;rsquo;s suggested that you go through &lt;a href=&#34;https://tongclass.ac.cn/info/gpu-servers/gpu-server-prelinilaries/&#34;&gt;this guide&lt;/a&gt; several stuffs as preliminaries.&lt;/p&gt;
 &lt;h2 id=&#34;login-to-the-servers&#34;&gt;Login to the Servers&lt;/h2&gt;
 &lt;p&gt;Of note, &lt;strong&gt;using SSH keys as the login method is a must for remote login for security reasons&lt;/strong&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;gpu-servers-in-thu-central-building-room-501&#34;&gt;GPU Servers in THU Central Building Room 501&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;It&amp;rsquo;s strongly recommended to go to Room 501 to use the machines in person, where you can access not only GUI desktops, but also guidance and help from our TAs.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;To access remotely, &lt;strong&gt;please use &lt;code&gt;501.gpu.tongclass.ac.cn&lt;/code&gt; with specified ports&lt;/strong&gt;, depending on the machine allocated to you. Please see the internally-shared Google doc or contact the TAs for information. E.g. your username is john, and you&amp;rsquo;ve been allocated the server &lt;code&gt;appleseed&lt;/code&gt;, which in on the port &lt;code&gt;23333&lt;/code&gt; according to the doc, so you login to the server with:&lt;/p&gt;
+&lt;p&gt;To access remotely, &lt;strong&gt;please use &lt;code&gt;terms.gpu.tongclass.ac.cn&lt;/code&gt; or &lt;code&gt;501.gpu.tongclass.ac.cn&lt;/code&gt; with specified ports&lt;/strong&gt;, depending on the machine allocated to you. Please see the internally-shared Google doc or contact the TAs for information. E.g. your username is john, and you&amp;rsquo;ve been allocated the server &lt;code&gt;appleseed&lt;/code&gt;, which in on the port &lt;code&gt;23333&lt;/code&gt; according to the doc, so you login to the server with:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ssh john@501.gpu.tongclass.ac.cn -p &lt;span class=&#34;m&#34;&gt;23333&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;gpu-server-in-bigai-server-room&#34;&gt;GPU Server in BIGAI Server Room&lt;/h3&gt;
 &lt;p&gt;We currently have 4 GPU servers in BIGAI Server Room: &lt;code&gt;snape&lt;/code&gt;, &lt;code&gt;lupin&lt;/code&gt;, &lt;code&gt;sirius&lt;/code&gt; and &lt;code&gt;dobby&lt;/code&gt;.&lt;/p&gt;
 &lt;h4 id=&#34;direct-connection-in-bigai-network&#34;&gt;Direct Connection in BIGAI Network&lt;/h4&gt;
-&lt;p&gt;When you&amp;rsquo;re connected to BIGAI&amp;rsquo;s network directly or via BIGAI VPN, you can directly access them with:&lt;/p&gt;
+&lt;p&gt;When you&amp;rsquo;re connected to BIGAI&amp;rsquo;s student network (BIGAI-Student) directly, to the BIGAI VPN, you can directly access them with:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ssh USERNAME@HOSTNAME.gpu.tongclass.ac.cn
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;E.g. to login to &lt;code&gt;dobby&lt;/code&gt; with username &lt;code&gt;john&lt;/code&gt;, use:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ssh john@dobby.gpu.tongclass.ac.cn
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     
