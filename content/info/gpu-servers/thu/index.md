@@ -8,6 +8,31 @@ date: false
 Please contact [Yuyang Li](https://yuyangli.com) for more information. 
 <!-- more -->
 
+## Serve Status
+
+<!-- Use 🟢(up), 🟡 (under maintain), 🔴(down), ⚫ (unavailable) -->
+
+- `Talented Terms` (THU Central Building 501): `terms.gpu.tongclass.ac.cn`
+    - 🟢 `adequate accuracy` - UP
+    - 🟢 `bold bayesian` - UP
+    - 🟢 `civil clustering` - UP
+    - 🟢 `dynamic descrptive` - UP
+    - 🟢 `exotic epoch` - UP
+    - 🟢 `factual feature` - UP
+    - 🟢 `grown genetic` - UP
+    - 🟢 `honest heuristics` - UP
+    - 🟢 `ideal inductive` - UP
+    - 🟢 `just jacobian` - UP
+- `Healthy Harry` (BIGAI Server Room): `[HOSTNAME].gpu.tongclass.ac.cn`
+    - 🔴 `smart snape` - DOWN
+    - 🟢 `stable lupin` - UP
+    - 🔴 `serious sirius` - DOWN
+    - 🟢 `daring dobby` - UP
+- `Polished Peanuts` (Thirdparty-maintained): `[HOSTNAME].gpu.tongclass.ac.cn`
+    - ⚫ `stirred schultz` - UNAVAILABLE, will be online by Nov 21.
+- `Free Fish`: Free GPU Resources, please refer to [this page](/info/gpu-servers/free-gpu/).
+
+
 ## Preliminaries
 
 To make sure that you're capable of using a server for computation, it's suggested that you go through [this guide](/info/gpu-servers/gpu-server-prelinilaries/) several stuffs as preliminaries.
