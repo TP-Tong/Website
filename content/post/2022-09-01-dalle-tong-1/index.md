@@ -9,6 +9,7 @@ image:
 
 <!--more-->
 
+{{% cta cta_link="https://photo.tongclass.ac.cn/16379aa33f282a" cta_text="See our photos →" %}}
 
 ## 引言
 
@@ -85,3 +86,4 @@ image:
 - 图文 | 自动化系“通班”赴大理实践支队
 - 排版 | 汪润
 - 审核 | 周偲
+

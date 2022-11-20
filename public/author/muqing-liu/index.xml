@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Muqing Liu | 通用人工智能实验班</title>
+    <link>https://tongclass.ac.cn/author/muqing-liu/</link>
+      <atom:link href="https://tongclass.ac.cn/author/muqing-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Muqing Liu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://tongclass.ac.cn/author/muqing-liu/avatar_hue7efd7deb732358a4565d080cf5af27d_145042_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Muqing Liu</title>
+      <link>https://tongclass.ac.cn/author/muqing-liu/</link>
+    </image>
+    
+  </channel>
+</rss>

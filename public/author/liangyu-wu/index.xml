@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liangyu Wu | 通用人工智能实验班</title>
+    <link>https://tongclass.ac.cn/author/liangyu-wu/</link>
+      <atom:link href="https://tongclass.ac.cn/author/liangyu-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liangyu Wu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://tongclass.ac.cn/author/liangyu-wu/avatar_hu390da13c62bd1479591559515b6e1b32_605688_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Liangyu Wu</title>
+      <link>https://tongclass.ac.cn/author/liangyu-wu/</link>
+    </image>
+    
+  </channel>
+</rss>
