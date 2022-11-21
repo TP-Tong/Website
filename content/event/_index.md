@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: 通班活动汇总
 
 # Listing view
 view: compact

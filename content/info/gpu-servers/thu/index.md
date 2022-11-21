@@ -27,10 +27,9 @@ To make sure that you're capable of using a server for computation, it's suggest
     - 🔴 `smart snape`
     - 🟢 `stable lupin`
     - 🔴 `serious sirius`
-    - 🟢 `daring dobby`
+    - 🔴 `daring dobby`
 - `Polished Peanuts` (Thirdparty-maintained)
-    - ⚫ `stirred schultz`
-    - ⚫ `certain charlie`
+    - 🟢 `certain charlie`
     - ⚫ `sweet snoopy`
     - ⚫ `legal linus`
     - ⚫ `lasting lucy`

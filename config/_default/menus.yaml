@@ -7,18 +7,21 @@ main:
   - name: 动态
     url: #
     weight: 10
+  - name: 活动
+    url: event
+    weight: 20
   - name: 成员
     url: people
-    weight: 20
+    weight: 30
   - name: 信息
     url: info
-    weight: 30
+    weight: 40
   - name: 成果
     url: publication
-    weight: 40
+    weight: 50
   - name: 相册
     url: https://photo.tongclass.ac.cn
-    weight: 50
+    weight: 60
   - name: 关于
     url: about
-    weight: 60
+    weight: 70

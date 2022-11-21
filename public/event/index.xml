@@ -1,29 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Events | 通用人工智能实验班</title>
+    <title>通班活动汇总 | 通用人工智能实验班</title>
     <link>https://tongclass.ac.cn/event/</link>
       <atom:link href="https://tongclass.ac.cn/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <description>通班活动汇总</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 25 Nov 2022 18:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tongclass.ac.cn/media/icon_hu444d86ff9c8bc6b3e6f8c2a3492878e5_142951_512x512_fill_lanczos_center_3.png</url>
-      <title>Recent &amp; Upcoming Events</title>
+      <title>通班活动汇总</title>
       <link>https://tongclass.ac.cn/event/</link>
     </image>
     
     <item>
-      <title>Example Event</title>
+      <title>A Thorough Guide on Using Computing Server</title>
       <link>https://tongclass.ac.cn/event/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <pubDate>Fri, 25 Nov 2022 18:00:00 +0000</pubDate>
       <guid>https://tongclass.ac.cn/event/example/</guid>
-      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+&lt;p&gt;Computing servers play a crucial role in AI research, but it is struggling for many researchers to master how to use them. We attribute most problems to their lack of basic skills in using the servers and their ignorance of how the system works. This talk provides a thorough and hands-on guide on essential techniques to use computing servers. Our guide goes through skills from using SSH and SSH Keys for logging, to using Conda and Docker for more flexible environment management. To help our audience have a better understanding, we provide adequate but easy-to-understand explanations on technical details. Audiences can have a chance to practice the skills on a new Tong Class server and have a Q&amp;amp;A session, for which on-site participation is suggested.&lt;/p&gt;
+&lt;h3 id=&#34;speaker&#34;&gt;Speaker&lt;/h3&gt;
+&lt;p&gt;Yuyang Li is a member of the Technology and Network Committee of the Tsinghua Tong Class, and the technical lead of Tong Class 2020. He is responsible for managing the GPU servers and maintaining the official website for THU Tong Class. He has worked in Linux system ops for more than five years.&lt;/p&gt;
 </description>
     </item>
     

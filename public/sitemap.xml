@@ -10,13 +10,21 @@
   <url>
     <loc>https://tongclass.ac.cn/info/visual/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://tongclass.ac.cn/event/example/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://tongclass.ac.cn/event/example/</loc><lastmod>2022-11-25T18:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://tongclass.ac.cn/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://tongclass.ac.cn/authors/</loc><lastmod>2022-11-25T18:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://tongclass.ac.cn/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://tongclass.ac.cn/tag/peers-talk/</loc><lastmod>2022-11-25T18:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://tongclass.ac.cn/authors/</loc><lastmod>2022-10-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://tongclass.ac.cn/tag/server/</loc><lastmod>2022-11-25T18:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tongclass.ac.cn/tags/</loc><lastmod>2022-11-25T18:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tongclass.ac.cn/author/yuyang-li/</loc><lastmod>2022-11-25T18:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tongclass.ac.cn/event/</loc><lastmod>2022-11-25T18:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tongclass.ac.cn/</loc><lastmod>2022-11-25T18:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tongclass.ac.cn/author/baoxiong-jia/</loc><lastmod>2022-10-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -46,8 +54,6 @@
   <url>
     <loc>https://tongclass.ac.cn/tag/source-themes/</loc><lastmod>2022-10-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://tongclass.ac.cn/tags/</loc><lastmod>2022-10-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://tongclass.ac.cn/author/tengyu-liu/</loc><lastmod>2022-10-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tongclass.ac.cn/author/yaodong-yang/</loc><lastmod>2022-10-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -55,8 +61,6 @@
     <loc>https://tongclass.ac.cn/author/yiran-geng/</loc><lastmod>2022-10-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tongclass.ac.cn/author/yixin-zhu/</loc><lastmod>2022-10-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://tongclass.ac.cn/author/yuyang-li/</loc><lastmod>2022-10-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tongclass.ac.cn/post/2022-09-01-dalle-tong-1/</loc><lastmod>2022-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

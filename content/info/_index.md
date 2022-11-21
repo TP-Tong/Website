@@ -10,7 +10,7 @@ These pages gather useful information for Tong Class students.
 
 ## Activities
 
-We share our activity calendar here, including warm-ups, seminars, talks, etc. Subscription is suggested for Tong Class students. 
+We share our activity calendar here, including warm-ups, seminars, talks, etc. Subscription is suggested for Tong Class students. For more details, please refer to our [event page](/event).
 
 - [Google Calendar for THU Tong Class](https://calendar.google.com/calendar/ical/59e16e4f7e729ebc2edc1f128fd7f6ddcdae691e7869ed0c8ee4b02ddf48a235%40group.calendar.google.com/public/basic.ics).
 - Google Calendar for PKU Tong Class: Pending...

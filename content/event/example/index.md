@@ -1,31 +1,25 @@
 ---
-title: Example Event
+title: A Thorough Guide on Using Computing Server
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: THU Tong Friday Night
+# event_url: https://example.org
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: THU Main Buildiing 511
 
-summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: THU Tong Friday Night series E01
+abstract: 'This talk provides a thorough and hands-on guide on essential techniques to use computing servers. Audiences can have a chance to practice the skills on a new Tong Class server and have a Q&A session, for which on-site participation is suggested.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2022-11-25T18:00:00Z'
+date_end: '2022-11-25T20:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-11-19T18:00:00Z'
 
-authors: []
-tags: []
+authors: ["Yuyang Li"]
+tags: ["peers' talk", "server"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -36,7 +30,7 @@ image:
 
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: 'https://assets.tongclass.ac.cn/events/thu-tong-friday-night/1.ComputingServers/THU.Tong.Seminar.1.Handout.Latest.pdf'
 url_video: ''
 
 # Markdown Slides (optional).
@@ -54,10 +48,11 @@ slides:
 projects:
 ---
 
-Slides can be added in a few ways:
+### Introduction
 
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+Computing servers play a crucial role in AI research, but it is struggling for many researchers to master how to use them. We attribute most problems to their lack of basic skills in using the servers and their ignorance of how the system works. This talk provides a thorough and hands-on guide on essential techniques to use computing servers. Our guide goes through skills from using SSH and SSH Keys for logging, to using Conda and Docker for more flexible environment management. To help our audience have a better understanding, we provide adequate but easy-to-understand explanations on technical details. Audiences can have a chance to practice the skills on a new Tong Class server and have a Q&A session, for which on-site participation is suggested.
 
-Further event details, including page elements such as image galleries, can be added to the body of this page.
+
+### Speaker
+
+Yuyang Li is a member of the Technology and Network Committee of the Tsinghua Tong Class, and the technical lead of Tong Class 2020. He is responsible for managing the GPU servers and maintaining the official website for THU Tong Class. He has worked in Linux system ops for more than five years.
