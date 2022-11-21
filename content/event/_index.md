@@ -1,5 +1,5 @@
 ---
-title: 通班活动汇总
+title: 活动汇总
 
 # Listing view
 view: compact
