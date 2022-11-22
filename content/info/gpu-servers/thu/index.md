@@ -17,19 +17,19 @@ To make sure that you're capable of using a server for computation, it's suggest
     - 🟢 `bold bayesian`
     - 🟢 `civil clustering`
     - 🟢 `dynamic descrptive`
-    - 🟢 `exotic epoch`
+    - 🟢 `exotic epoch` (Display unavailbale)
     - 🟢 `factual feature`
     - 🟢 `grown genetic`
     - 🟢 `honest heuristics`
     - 🟢 `ideal inductive`
     - 🟢 `just jacobian`
 - `Healthy Harry` (BIGAI Server Room)
-    - 🔴 `smart snape`
-    - 🟢 `stable lupin`
-    - 🔴 `serious sirius`
-    - 🔴 `daring dobby`
+    - 🔴 `smart snape` (Maintaining currently blocked by COVID-19)
+    - 🟡 `lucky lupin` (Incompatible CUDA and kernel)
+    - 🟢 `serious sirius`
+    - 🟢 `daring dobby`
 - `Polished Peanuts` (Thirdparty-maintained)
-    - 🟢 `certain charlie`
+    - 🟢 `certain charlie` (Will be open soon)
     - ⚫ `sweet snoopy`
     - ⚫ `legal linus`
     - ⚫ `lasting lucy`
