@@ -6,7 +6,6 @@ date: false
 ---
 
 To make sure that you're capable of using a server for computation, it's suggested that you go through [this guide](/info/gpu-servers/gpu-server-prelinilaries/) several stuffs as preliminaries. For more information, please contact [Yuyang Li](https://yuyangli.com).
-<!-- more -->
 
 ## Server Status
 
@@ -37,6 +36,10 @@ To make sure that you're capable of using a server for computation, it's suggest
 - `Free Fish`: Free GPU Resources, please refer to [this page](/info/gpu-servers/free-gpu/).
 
 
+## Apply for an account
+
+1. Fill out the [application form](https://go.tongclass.ac.cn/gpu/thu/apply).
+2. Contact Liangru Xiang or Yuyang Li for account allocation information.
 
 ## Login to the Servers
 
