@@ -1,12 +1,12 @@
 ---
-title: An Essential Guide on Using GPU Computing Servers (Delayed)
+title: An Essential Guide on Using GPU Computing Servers
 
 event: THU Tong Friday Night
 # event_url: https://example.org
 
 location: THU Main Buildiing 707
 
-summary: THU Tong Friday Night series E01, delayed due to COVID-19. New schedule will be announced soon.
+summary: THU Tong Friday Night series E01
 abstract: 'This talk provides a thorough and hands-on guide on essential techniques to use computing servers. Audiences can have a chance to practice the skills on a new Tong Class server and have a Q&A session, for which on-site participation is suggested.'
 
 # Talk start and end times.
