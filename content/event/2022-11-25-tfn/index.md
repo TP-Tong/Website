@@ -4,7 +4,7 @@ title: An Essential Guide on Using GPU Computing Servers
 event: THU Tong Friday Night
 # event_url: https://example.org
 
-location: THU Main Buildiing 511
+location: THU Main Buildiing 707
 
 summary: THU Tong Friday Night series E01
 abstract: 'This talk provides a thorough and hands-on guide on essential techniques to use computing servers. Audiences can have a chance to practice the skills on a new Tong Class server and have a Q&A session, for which on-site participation is suggested.'
@@ -52,7 +52,7 @@ projects:
 
 Computing servers play a crucial role in AI research, but it is struggling for many researchers to master how to use them. We attribute most problems to their lack of basic skills in using the servers and their ignorance of how the system works. This talk provides a thorough and hands-on guide on essential techniques to use computing servers. Our guide goes through skills from using SSH and SSH Keys for logging, to using Conda and Docker for more flexible environment management. To help our audience have a better understanding, we provide adequate but easy-to-understand explanations on technical details. Audiences can have a chance to practice the skills on a new Tong Class server and have a Q&A session, for which on-site participation is suggested.
 
-![Poster](https://assets.tongclass.ac.cn/events/thu-tong-friday-night/1.ComputingServers/Poster.Latest.png)
+![Poster](https://assets.tongclass.ac.cn/events/thu-tong-friday-night/1.ComputingServers/Poster.Release.png)
 
 ### Speaker
 
