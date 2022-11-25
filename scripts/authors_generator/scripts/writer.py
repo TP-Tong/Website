@@ -205,15 +205,20 @@ def write_record(record):
     return yaml_dict
 
 def handle_avatar(path, record):
-    # use default avatar
-    if record[MAPPER["photo"]] in NONES:
-        shutil.copyfile(DEFAULT_AVATAR, os.path.join(path, "avatar.jpg"))
-    # download online from form
-    else:
+    if record[MAPPER["photo"]] not in NONES :
         avatar = requests.get(record[MAPPER["photo"]], stream=True)
         with open(os.path.join(path, "avatar.jpg"), "wb") as file:
             for chunk in avatar.iter_content(chunk_size=32):
                 file.write(chunk)
+    elif record[MAPPER["chineseName"]] in os.listdir(os.path.join("..", "data", "student-photos")) :
+        avatarDir = os.path.join("..", "data", "student-photos", record[MAPPER["chineseName"]])
+        fileNames = os.listdir(avatarDir)
+        avatarName = []
+        for i in fileNames :
+            avatarName.append(i)
+        shutil.copyfile(os.path.join(os.path.join(avatarDir, avatarName[0])), os.path.join(path, "avatar.jpg"))
+    else :
+        shutil.copyfile(DEFAULT_AVATAR, os.path.join(path, "avatar.jpg"))
 
 def write(path, record):
     # dont want to be displayed on website
