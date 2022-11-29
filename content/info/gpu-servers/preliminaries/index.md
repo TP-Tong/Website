@@ -3,6 +3,7 @@ title: Preliminaries
 type: book
 toc: true
 date: false
+weight: 10
 ---
 
 We provides resources to learn preliminaries for using computing servers. Remember that it's common to be frustrated dealing with a command line Linux and other new tech stuffs, but you will master it after try-and-errors with repeated practice. Good luck!

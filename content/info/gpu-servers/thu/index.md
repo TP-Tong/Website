@@ -3,6 +3,7 @@ title: THU Servers
 type: book
 toc: true
 date: false
+weight: 20
 ---
 
 To make sure that you're capable of using a server for computation, it's suggested that you go through [this guide](/info/gpu-servers/gpu-server-prelinilaries/) several stuffs as preliminaries. For more information, please contact [Yuyang Li](https://yuyangli.com).

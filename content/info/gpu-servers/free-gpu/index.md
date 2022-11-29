@@ -3,6 +3,7 @@ title: Free GPU Resources
 type: book
 toc: true
 date: false
+weight: 100
 ---
 
 Here are some generally available GPU resources.
