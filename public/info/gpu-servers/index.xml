@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GPU Servers Guide | 通用人工智能实验班</title>
+    <link>https://tongclass.ac.cn/info/gpu-servers/</link>
+      <atom:link href="https://tongclass.ac.cn/info/gpu-servers/index.xml" rel="self" type="application/rss+xml" />
+    <description>GPU Servers Guide</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://tongclass.ac.cn/media/icon_hu444d86ff9c8bc6b3e6f8c2a3492878e5_142951_512x512_fill_lanczos_center_3.png</url>
+      <title>GPU Servers Guide</title>
+      <link>https://tongclass.ac.cn/info/gpu-servers/</link>
+    </image>
+    
+    <item>
+      <title>Preliminaries</title>
+      <link>https://tongclass.ac.cn/info/gpu-servers/preliminaries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/info/gpu-servers/preliminaries/</guid>
+      <description>&lt;p&gt;We provides resources to learn preliminaries for using computing servers. Remember that it&amp;rsquo;s common to be frustrated dealing with a command line Linux and other new tech stuffs, but you will master it after try-and-errors with repeated practice. Good luck!&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;h2 id=&#34;linux&#34;&gt;Linux&lt;/h2&gt;
+&lt;p&gt;Instead of fully learning Linux, you can just go through:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.runoob.com/linux/linux-intro.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An Intro to Linux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.runoob.com/linux/linux-system-contents.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linux System Contents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.runoob.com/linux/linux-remote-login.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Remote Login (with PuTTY)&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Note that you can also login with &lt;code&gt;ssh&lt;/code&gt; command or other softwares like Termius and VSCode&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.runoob.com/linux/linux-file-attr-permission.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;File Attributes and Permissions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.runoob.com/linux/linux-vim.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vi/Vim&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conda&#34;&gt;Conda&lt;/h2&gt;
+&lt;p&gt;You should work in virtual environments to isolate packages among your projects to avoid bad dependencies. You can go through:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/351348108&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An Intro to Anaconda&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;docker&#34;&gt;Docker&lt;/h2&gt;
+&lt;p&gt;For environments that requires system-level dependencies, please use Docker. &lt;a href=&#34;https://docker-curriculum.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This tutorial&lt;/a&gt; provides detail information that helps you understand and use docker.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Note that in our current setting, you can manage all the docker containers (including others) on the machine. Please DO NOT use or delete containers that you do not own.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;ssh&#34;&gt;SSH&lt;/h2&gt;
+&lt;p&gt;You need SSH to login to the server:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ssh USERNAME@URL -p PORT
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Note that you should change the &lt;code&gt;USERNAME&lt;/code&gt; and &lt;code&gt;PORT&lt;/code&gt; to your account name and the server port. E.g. To login to the server at &lt;code&gt;server.net&lt;/code&gt; on the port &lt;code&gt;23333&lt;/code&gt; with account &lt;code&gt;alice&lt;/code&gt;, use:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ssh alice@server.net -p &lt;span class=&#34;m&#34;&gt;23333&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;with &lt;code&gt;PORT&lt;/code&gt; unspecified, the SSH default port &lt;code&gt;22&lt;/code&gt; is used.&lt;/p&gt;
+&lt;p&gt;For more information, You can go through &lt;a href=&#34;https://wangdoc.com/ssh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this SSH guide&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>THU Servers</title>
+      <link>https://tongclass.ac.cn/info/gpu-servers/thu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/info/gpu-servers/thu/</guid>
+      <description>&lt;p&gt;To make sure that you&amp;rsquo;re capable of using a server for computation, it&amp;rsquo;s suggested that you go through &lt;a href=&#34;https://tongclass.ac.cn/info/gpu-servers/gpu-server-prelinilaries/&#34;&gt;this guide&lt;/a&gt; several stuffs as preliminaries. For more information, please contact &lt;a href=&#34;https://yuyangli.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yuyang Li&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;server-status&#34;&gt;Server Status&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;🟢: Up; 🟡: Under maintain; 🔴: Down; ⚫: Unavailable.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Talented Terms&lt;/code&gt; (THU Central Building 501)
+&lt;ul&gt;
+&lt;li&gt;🟢 &lt;code&gt;adequate accuracy&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;🟢 &lt;code&gt;bold bayesian&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;🟢 &lt;code&gt;civil clustering&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;🟢 &lt;code&gt;dynamic descrptive&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;🟢 &lt;code&gt;exotic epoch&lt;/code&gt; (Display unavailbale)&lt;/li&gt;
+&lt;li&gt;🟢 &lt;code&gt;factual feature&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;🟢 &lt;code&gt;grown genetic&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;🟢 &lt;code&gt;honest heuristics&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;🟢 &lt;code&gt;ideal inductive&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;🟢 &lt;code&gt;just jacobian&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Healthy Harry&lt;/code&gt; (BIGAI Server Room)
+&lt;ul&gt;
+&lt;li&gt;🔴 &lt;code&gt;smart snape&lt;/code&gt; (Maintaining currently blocked by COVID-19)&lt;/li&gt;
+&lt;li&gt;🟡 &lt;code&gt;lucky lupin&lt;/code&gt; (Incompatible CUDA and kernel)&lt;/li&gt;
+&lt;li&gt;🟢 &lt;code&gt;serious sirius&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;🟢 &lt;code&gt;daring dobby&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Polished Peanuts&lt;/code&gt; (Thirdparty-maintained)
+&lt;ul&gt;
+&lt;li&gt;🟢 &lt;code&gt;certain charlie&lt;/code&gt; (Will be open soon)&lt;/li&gt;
+&lt;li&gt;⚫ &lt;code&gt;sweet snoopy&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;⚫ &lt;code&gt;legal linus&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;⚫ &lt;code&gt;lasting lucy&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;⚫ &lt;code&gt;rare rerun&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Free Fish&lt;/code&gt;: Free GPU Resources, please refer to &lt;a href=&#34;https://tongclass.ac.cn/info/gpu-servers/free-gpu/&#34;&gt;this page&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;apply-for-an-account&#34;&gt;Apply for an account&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Fill out the &lt;a href=&#34;https://go.tongclass.ac.cn/gpu/thu/apply&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;application form&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Contact Liangru Xiang or Yuyang Li for account allocation information.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;login-to-the-servers&#34;&gt;Login to the Servers&lt;/h2&gt;
+&lt;p&gt;Of note, &lt;strong&gt;using SSH keys as the login method is a must for remote login for security reasons&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;gpu-servers-in-thu-central-building-room-501&#34;&gt;GPU Servers in THU Central Building Room 501&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;It&amp;rsquo;s strongly recommended to go to Room 501 to use the machines in person, where you can access not only GUI desktops, but also guidance and help from our TAs.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;To access remotely, &lt;strong&gt;please use &lt;code&gt;terms.gpu.tongclass.ac.cn&lt;/code&gt; or &lt;code&gt;501.gpu.tongclass.ac.cn&lt;/code&gt; with specified ports&lt;/strong&gt;, depending on the machine allocated to you. Please see the internally-shared Google doc or contact the TAs for information. E.g. your username is john, and you&amp;rsquo;ve been allocated the server &lt;code&gt;appleseed&lt;/code&gt;, which in on the port &lt;code&gt;23333&lt;/code&gt; according to the doc, so you login to the server with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ssh john@501.gpu.tongclass.ac.cn -p &lt;span class=&#34;m&#34;&gt;23333&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;gpu-server-in-bigai-server-room&#34;&gt;GPU Server in BIGAI Server Room&lt;/h3&gt;
+&lt;p&gt;We currently have 4 GPU servers in BIGAI Server Room: &lt;code&gt;snape&lt;/code&gt;, &lt;code&gt;lupin&lt;/code&gt;, &lt;code&gt;sirius&lt;/code&gt; and &lt;code&gt;dobby&lt;/code&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;direct-connection-in-bigai-network&#34;&gt;Direct Connection in BIGAI Network&lt;/h4&gt;
+&lt;p&gt;When you&amp;rsquo;re connected to BIGAI&amp;rsquo;s student network (BIGAI-Student) directly, to the BIGAI VPN, you can directly access them with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ssh USERNAME@HOSTNAME.gpu.tongclass.ac.cn
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://tongclass.ac.cn/info/gpu-servers/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/info/gpu-servers/faq/</guid>
+      <description>&lt;p&gt;This page provides FAQs for our computing servers.&lt;/p&gt;
+&lt;h2 id=&#34;conda-and-pypi&#34;&gt;Conda and PyPI&lt;/h2&gt;
+&lt;p&gt;Conda and PyPI are used to manage your Python development environment and packages.&lt;/p&gt;
+&lt;h3 id=&#34;installation&#34;&gt;Installation&lt;/h3&gt;
+&lt;p&gt;You can find installation package for Anaconda at &lt;code&gt;/home/shared/utils/conda&lt;/code&gt;, so you don&amp;rsquo;t need to download them again.&lt;/p&gt;
+&lt;h3 id=&#34;switching-mirrors&#34;&gt;Switching Mirrors&lt;/h3&gt;
+&lt;p&gt;For faster access, you can switch to other mirrors. Please refer to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TUNA Conda Mirror&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mirrors.tuna.tsinghua.edu.cn/help/pypi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TUNA PyPI Mirror&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Other Conda and PyPI mirrors&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;cuda&#34;&gt;CUDA&lt;/h2&gt;
+&lt;p&gt;We provide the latest NVIDIA GPU drivers and CUDA Toolkit in various versions.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;In most cases, CUDA 11.x are compatible&lt;/li&gt;
+&lt;li&gt;GPUs like 3090 with Ampere architecture only supports &lt;code&gt;CUDA&amp;gt;=11.1&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;To check compatibility, please check &lt;a href=&#34;https://docs..vidia.com/deploy/cuda-compatibility/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this page&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;cuda-toolkit&#34;&gt;CUDA Toolkit&lt;/h3&gt;
+&lt;p&gt;In order to provide CUDA with various versions, we do not create symbolic link in &lt;code&gt;/usr/local/cuda/&lt;/code&gt;. Instead, they are in &lt;code&gt;/usr/local/cuda-xy.z&lt;/code&gt; with &lt;code&gt;xy.z&lt;/code&gt; being the version. To use them, you may need to specify environment variables like &lt;code&gt;CUDA_PATH&lt;/code&gt; (depends on your program). You can use &lt;code&gt;export&lt;/code&gt; to set them. For convenience, you can export them in your shell profile.&lt;/p&gt;
+&lt;p&gt;For example, to use CUDA 11.7 by default in &lt;code&gt;bash&lt;/code&gt;, you should add the following script to your &lt;code&gt;~/.bashrc&lt;/code&gt;:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;export&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;PATH&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;/usr/local/cuda-11.7/bin/:&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;$PATH&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;export&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;LD_LIBRARY_PATH&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;/usr/local/cuda-11.7/lib64:&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;$LD_LIBRARY_PATH&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;export&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;CUDA_HOME&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;/usr/local/cuda-11.7&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;export&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;CUDA_PATH&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;/usr/local/cuda-11.7&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;export&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;CPATH&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;/usr/local/cuda-11.7/include:&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;$CPATH&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;We only install some important versions but not all of them. To use a certain unprovided versions, please use Docker. You can find and pull images from here.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Free GPU Resources</title>
+      <link>https://tongclass.ac.cn/info/gpu-servers/free-gpu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/info/gpu-servers/free-gpu/</guid>
+      <description>&lt;p&gt;Here are some generally available GPU resources.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://colab.research.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Colab&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kaggle.com/code/dansbecker/running-kaggle-kernels-with-a-gpu/notebook&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaggle Free GPU&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tianchi.aliyun.com/?spm=5176.20222498.J_3941670930.2.fa0f2a1fPgZ9O9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alibaba Tianchi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
