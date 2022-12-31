@@ -11,6 +11,8 @@ image:
 
 {{% cta cta_link="https://photo.tongclass.ac.cn/16379aa33f282a" cta_text="See our photos →" %}}
 
+{{% cta cta_link="https://assets.tongclass.ac.cn/events/dalle-tong/Materials.2022.zip" cta_text="Released Materials" %}}
+
 ## 引言
 
 教育发展和教育公平始终是当代社会中最重要的议题之一。《国家中长期教育改革和发展规划纲要(2010-2020年)》中指出，必须坚持优先发展教育，坚持育人为本，解决中小学课业负担重、素质教育推进困难、区域教育发展发展不平衡等问题。云南大理作为我国西南边陲地区，受制于地理位置偏远、经济发展受限、地区差异较大等因素，其教育发展依然面临较大挑战。
