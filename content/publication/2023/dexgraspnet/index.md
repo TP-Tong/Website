@@ -35,7 +35,7 @@ featured: false
 
 links:
   - name: Arxiv
-    url: https://arxiv.org/pdf/2210.02697.pdf
+    url: https://arxiv.org/abs/2210.02697
 url_pdf: https://arxiv.org/pdf/2210.02697.pdf
 url_code: ''
 url_dataset: ''
