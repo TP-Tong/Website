@@ -5,12 +5,22 @@
     <link>https://tongclass.ac.cn/author/song-chun-zhu/</link>
       <atom:link href="https://tongclass.ac.cn/author/song-chun-zhu/index.xml" rel="self" type="application/rss+xml" />
     <description>Song-Chun Zhu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 15 Mar 2023 18:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tongclass.ac.cn/author/song-chun-zhu/avatar_hu9d85c6dbbb0161d8d7aaf7aea74e76a0_141813_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://tongclass.ac.cn/media/icon_hu444d86ff9c8bc6b3e6f8c2a3492878e5_142951_512x512_fill_lanczos_center_3.png</url>
       <title>Song-Chun Zhu</title>
       <link>https://tongclass.ac.cn/author/song-chun-zhu/</link>
     </image>
+    
+    <item>
+      <title>THU PKU Tong Class Meeting</title>
+      <link>https://tongclass.ac.cn/event/2023-03-tong-event/</link>
+      <pubDate>Wed, 15 Mar 2023 18:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/event/2023-03-tong-event/</guid>
+      <description>&lt;p&gt;Please fillout the form below to inform us your availability.&lt;/p&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;600px&#34; src=&#34;https://forms.office.com/Pages/ResponsePage.aspx?id=Mkaj650Nf0WvcwDjs3ODCHctYn0LcJNNnlk2zrzplGxUMFUxNkFFNUNIN0tTWTBGVElXUzc5Sk9XUS4u&amp;embed=true&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; style=&#34;border: none; max-width:100%; max-height:100vh&#34; allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen&gt; &lt;/iframe&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

@@ -5,7 +5,7 @@
     <link>https://tongclass.ac.cn/</link>
       <atom:link href="https://tongclass.ac.cn/index.xml" rel="self" type="application/rss+xml" />
     <description>通用人工智能实验班</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 16 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tongclass.ac.cn/media/icon_hu444d86ff9c8bc6b3e6f8c2a3492878e5_142951_512x512_fill_lanczos_center_3.png</url>
       <title>通用人工智能实验班</title>
@@ -69,7 +69,7 @@
 &lt;li&gt;🟢 &lt;code&gt;bold bayesian&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;🟢 &lt;code&gt;civil clustering&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;🟢 &lt;code&gt;dynamic descrptive&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;🟢 &lt;code&gt;exotic epoch&lt;/code&gt; (Display unavailbale)&lt;/li&gt;
+&lt;li&gt;🟢 &lt;code&gt;exotic epoch&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;🟢 &lt;code&gt;factual feature&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;🟢 &lt;code&gt;grown genetic&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;🟢 &lt;code&gt;honest heuristics&lt;/code&gt;&lt;/li&gt;
@@ -87,7 +87,7 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;code&gt;Polished Peanuts&lt;/code&gt; (Thirdparty-maintained)
 &lt;ul&gt;
-&lt;li&gt;🟢 &lt;code&gt;certain charlie&lt;/code&gt; (Will be open soon)&lt;/li&gt;
+&lt;li&gt;🟢 &lt;code&gt;certain charlie&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;⚫ &lt;code&gt;sweet snoopy&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;⚫ &lt;code&gt;legal linus&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;⚫ &lt;code&gt;lasting lucy&lt;/code&gt;&lt;/li&gt;
@@ -166,10 +166,36 @@
     </item>
     
     <item>
+      <title>GenDexGrasp: Generalizable Dexterous Grasping</title>
+      <link>https://tongclass.ac.cn/publication/2023/dexgraspnet/</link>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/publication/2023/dexgraspnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GenDexGrasp: Generalizable Dexterous Grasping</title>
+      <link>https://tongclass.ac.cn/publication/2023/gendexgrasp/</link>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/publication/2023/gendexgrasp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>THU PKU Tong Class Meeting</title>
+      <link>https://tongclass.ac.cn/event/2023-03-tong-event/</link>
+      <pubDate>Wed, 15 Mar 2023 18:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/event/2023-03-tong-event/</guid>
+      <description>&lt;p&gt;Please fillout the form below to inform us your availability.&lt;/p&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;600px&#34; src=&#34;https://forms.office.com/Pages/ResponsePage.aspx?id=Mkaj650Nf0WvcwDjs3ODCHctYn0LcJNNnlk2zrzplGxUMFUxNkFFNUNIN0tTWTBGVElXUzc5Sk9XUS4u&amp;embed=true&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; style=&#34;border: none; max-width:100%; max-height:100vh&#34; allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen&gt; &lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Unsupervised Object-Centric Learning with Bi-Level Optimized Query Slot Attention</title>
-      <link>https://tongclass.ac.cn/publication/2022/bo-qsa/</link>
+      <link>https://tongclass.ac.cn/publication/2023/bo-qsa/</link>
       <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://tongclass.ac.cn/publication/2022/bo-qsa/</guid>
+      <guid>https://tongclass.ac.cn/publication/2023/bo-qsa/</guid>
       <description></description>
     </item>
     
@@ -732,14 +758,6 @@
     </item>
     
     <item>
-      <title>GenDexGrasp: Generalizable Dexterous Grasping</title>
-      <link>https://tongclass.ac.cn/publication/2022/gendexgrasp/</link>
-      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://tongclass.ac.cn/publication/2022/gendexgrasp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>暑期实践 | 清华通班“通情达理”支队赴云南大理州开展实践调研</title>
       <link>https://tongclass.ac.cn/post/2022-09-01-dalle-tong-1/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
@@ -1025,7 +1043,7 @@
     </item>
     
     <item>
-      <title>An Essential Guide on Using GPU Computing Servers</title>
+      <title>Tong Paper Saturday E01 - Vision Transformer</title>
       <link>https://tongclass.ac.cn/event/2022-04-09-vit/</link>
       <pubDate>Sat, 09 Apr 2022 18:00:00 +0000</pubDate>
       <guid>https://tongclass.ac.cn/event/2022-04-09-vit/</guid>

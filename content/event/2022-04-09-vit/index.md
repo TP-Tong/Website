@@ -1,12 +1,12 @@
 ---
-title: An Essential Guide on Using GPU Computing Servers
+title: Tong Paper Saturday E01 - Vision Transformer
 
 event: THU Tong Paper Saturday
 # event_url: https://example.org
 
 location: THU 1J 301
 
-summary: THU Tong Paper Saturday E01
+summary: THU Tong Paper Saturday
 abstract: 'In this talk, Yu Liu will introduce Vision Transformer to us. He will first go through the paper An Image is Worth 16x16 Words, and then talk about the details and implementation of the model.'
 
 # Talk start and end times.
