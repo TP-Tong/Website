@@ -17,7 +17,7 @@ To make sure that you're capable of using a server for computation, it's suggest
     - 🟢 `bold bayesian`
     - 🟢 `civil clustering`
     - 🟢 `dynamic descrptive`
-    - 🟢 `exotic epoch` (Display unavailbale)
+    - 🟢 `exotic epoch`
     - 🟢 `factual feature`
     - 🟢 `grown genetic`
     - 🟢 `honest heuristics`
@@ -29,7 +29,7 @@ To make sure that you're capable of using a server for computation, it's suggest
     - 🟢 `serious sirius`
     - 🟢 `daring dobby`
 - `Polished Peanuts` (Thirdparty-maintained)
-    - 🟢 `certain charlie` (Will be open soon)
+    - 🟢 `certain charlie`
     - ⚫ `sweet snoopy`
     - ⚫ `legal linus`
     - ⚫ `lasting lucy`
