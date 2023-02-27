@@ -1,5 +1,7 @@
 # IDEs
 .idea/
+# mac
+.DS_Store
 
 # Hugo
 /resources/
