@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liangru Xiang | 通用人工智能实验班</title>
+    <link>https://tongclass.ac.cn/author/liangru-xiang/</link>
+      <atom:link href="https://tongclass.ac.cn/author/liangru-xiang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liangru Xiang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 04 Mar 2023 16:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tongclass.ac.cn/media/icon_hu444d86ff9c8bc6b3e6f8c2a3492878e5_142951_512x512_fill_lanczos_center_3.png</url>
+      <title>Liangru Xiang</title>
+      <link>https://tongclass.ac.cn/author/liangru-xiang/</link>
+    </image>
+    
+    <item>
+      <title>Tips for a Research Career with Confidence and Enthusiasm</title>
+      <link>https://tongclass.ac.cn/event/2023-03-04-sat/</link>
+      <pubDate>Sat, 04 Mar 2023 16:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/event/2023-03-04-sat/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://assets.tongclass.ac.cn/events/thu-tong-saturday-afternoon-talks/1.ResearchTips/Poster.png&#34; alt=&#34;Poster&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;speaker&#34;&gt;Speaker&lt;/h3&gt;
+&lt;p&gt;Puhao Li is a Senior student from the Department of Automation, Tsinghua University. He has just received the pre-admission to a PhD program at Tsinghua University, to be advised by Prof. Song-Chun Zhu. His research interests lie in computer vision, generative modeling and robotic manipulation.&lt;/p&gt;
+&lt;p&gt;Liangru Xiang is a first year Ph.D candidate from the Department of Automation, Tsinghua University, under the supervision of Prof. Song-Chun Zhu. He looks forward to making the agents as smart as humans do. His research interests lie in causal learning and reasoning, cognition, machine learning and other topics.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
