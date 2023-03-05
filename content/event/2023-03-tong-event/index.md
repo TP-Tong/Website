@@ -4,16 +4,16 @@ title: THU PKU Tong Class Meeting
 event: Tong Class Meeting
 # event_url: https://example.org
 
-location: To be determined
+location: Peking University Zhong Guan Xin Yuan
 
 summary: THU PKU Tong Class Meeting 2023
 abstract: 'We will schedule a class meeting for all Tong Class students from THU and PKU.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-03-15T18:00:00Z'
-date_end: '2023-03-19T18:00:00Z'
-all_day: true
+date: '2023-03-26T14:00:00Z'
+date_end: '2023-03-26T18:00:00Z'
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2023-02-21T10:00:00Z'

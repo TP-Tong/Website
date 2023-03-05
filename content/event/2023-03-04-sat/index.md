@@ -25,12 +25,12 @@ tags: ["peers' talk", "research"]
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  caption: 
+  focal_point: 
 
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: 'https://assets.tongclass.ac.cn/events/thu-tong-saturday-afternoon-talks/1.ResearchTips/THU.Tong.SAT.1.Handout.pdf'
 url_video: ''
 
 # Markdown Slides (optional).
