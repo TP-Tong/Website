@@ -44,4 +44,5 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - 清华 21 级
+  - 网站维护团队
 ---

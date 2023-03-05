@@ -67,6 +67,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - 清华 20 级
+  - 网站维护团队
 ---
 
 Yuyang Li is a junior student in Dept. of Automatoin at Tsinghua University. He is also a research intern at General Vision Lab, BIGAI, advised by Tengyu Liu.

@@ -50,8 +50,8 @@ projects:
 
 ![Poster](https://assets.tongclass.ac.cn/events/thu-tong-saturday-afternoon-talks/1.ResearchTips/Poster.png)
 
-### Speaker
-
-Puhao Li is a Senior student from the Department of Automation, Tsinghua University. He has just received the pre-admission to a PhD program at Tsinghua University, to be advised by Prof. Song-Chun Zhu. His research interests lie in computer vision, generative modeling and robotic manipulation.
+### Speakers
 
 Liangru Xiang is a first year Ph.D candidate from the Department of Automation, Tsinghua University, under the supervision of Prof. Song-Chun Zhu. He looks forward to making the agents as smart as humans do. His research interests lie in causal learning and reasoning, cognition, machine learning and other topics.
+
+Puhao Li is a Senior student from the Department of Automation, Tsinghua University. He has just received the pre-admission to a PhD program at Tsinghua University, to be advised by Prof. Song-Chun Zhu. His research interests lie in computer vision, generative modeling and robotic manipulation.

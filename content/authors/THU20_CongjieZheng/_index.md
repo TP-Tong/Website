@@ -1,5 +1,5 @@
 ---
-title: Shuran Liu
+title: Congjie Zheng
 superuser: false
 role: Member
 organizations:
@@ -8,7 +8,6 @@ organizations:
 bio: ''
 interests:
 - CV
-- vision super resulosion
 education:
   courses:
   - course: B.E. in Automation and Artificial Intelligence
@@ -17,12 +16,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fa
-  link: mailto:liusr20@mails.tsinghua.edu.cn
-- icon: github
-  icon_pack: fab
-  link: https://github.com/liusr20
-email: liusr20@mails.tsinghua.edu.cn
+  link: mailto:z-zy20@mails.tsinghua.edu.cn
+email: z-zy20@mails.tsinghua.edu.cn
 highlight_name: false
 user_groups:
 - 清华 20 级
+- 网站维护团队
 ---

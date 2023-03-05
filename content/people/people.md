@@ -24,6 +24,7 @@ content:
     - 清华 20 级
     - 北大 20 级
     - 吉祥物
+    - 网站维护团队
 design:
   show_interests: false
   show_role: true
