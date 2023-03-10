@@ -6,17 +6,9 @@
   <url>
     <loc>https://tongclass.ac.cn/info/arch/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://tongclass.ac.cn/info/gpu-servers/preliminaries/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://tongclass.ac.cn/info/gpu-servers/thu/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://tongclass.ac.cn/info/gpu-servers/faq/</loc><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://tongclass.ac.cn/info/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tongclass.ac.cn/info/visual/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://tongclass.ac.cn/info/gpu-servers/free-gpu/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tongclass.ac.cn/publication-type/1/</loc><lastmod>2023-10-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -128,6 +120,8 @@
   <url>
     <loc>https://tongclass.ac.cn/author/chuyue-tang/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://tongclass.ac.cn/info/cmpt-servers/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://tongclass.ac.cn/author/congjie-zheng/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tongclass.ac.cn/info/academic/courses/</loc><changefreq>weekly</changefreq></url>
@@ -143,8 +137,6 @@
     <loc>https://tongclass.ac.cn/author/gao-jiawei/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tongclass.ac.cn/author/gaokun-jiang/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://tongclass.ac.cn/info/gpu-servers/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tongclass.ac.cn/author/guangyuan-jiang/</loc><changefreq>weekly</changefreq></url>
   <url>
