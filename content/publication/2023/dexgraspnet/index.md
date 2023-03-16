@@ -1,5 +1,5 @@
 ---
-title: 'GenDexGrasp: Generalizable Dexterous Grasping'
+title: 'DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation'
 authors:
   - Ruicheng Wang
   - Jialiang Zhang

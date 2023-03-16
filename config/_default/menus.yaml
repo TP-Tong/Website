@@ -19,9 +19,9 @@ main:
   - name: 成果
     url: publication
     weight: 50
-  - name: 相册
-    url: https://photo.tongclass.ac.cn
-    weight: 60
+  # - name: 相册
+  #   url: https://photo.tongclass.ac.cn
+  #   weight: 60
   - name: 关于
     url: about
     weight: 70
