@@ -1,12 +1,12 @@
 ---
-title: THU PKU Tong Class Meeting
+title: The First Assembly of TongClass
 
-event: Tong Class Meeting
+event: TongClass Assembly
 # event_url: https://example.org
 
 location: Peking University Zhong Guan Xin Yuan
 
-summary: THU PKU Tong Class Meeting 2023
+summary: THU PKU TongClass Assembly 2023
 abstract: 'We will schedule a class meeting for all Tong Class students from THU and PKU.'
 
 # Talk start and end times.
@@ -19,7 +19,7 @@ all_day: false
 publishDate: '2023-02-21T10:00:00Z'
 
 authors: ["Song-Chun Zhu"]
-tags: ["class meeting"]
+tags: ["class meeting", "tongclass assembly"]
 
 # Is this a featured talk? (true/false)
 featured: false
