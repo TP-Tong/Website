@@ -58,7 +58,7 @@ def institutionize(excel_item):
 
 
 # to identify the blank input
-NONES = [None, np.nan, np.NaN, np.NAN]
+NONES = [None, np.nan, np.NaN, np.NAN, ""]
 
 TRUES = ["是", "行", "可", "可以", "确认", "确定", "YES", "Yes", "yes", "TRUE", "True", True]
 FALSES = ["否", "不是", "不行", "不", "不可以", "否认", "否定", "NO", "No", "no", "FALSE", "False", False, None, np.nan, np.NaN, np.NAN]

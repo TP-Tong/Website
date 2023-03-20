@@ -205,19 +205,20 @@ def write_record(record):
     return yaml_dict
 
 def handle_avatar(path, record):
-    if record[MAPPER["photo"]] not in NONES :
+    if record[MAPPER["photo"]] not in NONES:
         avatar = requests.get(record[MAPPER["photo"]], stream=True)
         with open(os.path.join(path, "avatar.jpg"), "wb") as file:
             for chunk in avatar.iter_content(chunk_size=32):
                 file.write(chunk)
-    elif record[MAPPER["chineseName"]] in os.listdir(os.path.join("..", "data", "student-photos")) :
+    elif os.path.exists(os.path.join(DATA, "student-photos"))\
+        and record[MAPPER["chineseName"]] in os.listdir(os.path.join(DATA, "student-photos")):
         avatarDir = os.path.join("..", "data", "student-photos", record[MAPPER["chineseName"]])
         fileNames = os.listdir(avatarDir)
         avatarName = []
         for i in fileNames :
             avatarName.append(i)
         shutil.copyfile(os.path.join(os.path.join(avatarDir, avatarName[0])), os.path.join(path, "avatar.jpg"))
-    else :
+    else:
         shutil.copyfile(DEFAULT_AVATAR, os.path.join(path, "avatar.jpg"))
 
 def write(path, record):

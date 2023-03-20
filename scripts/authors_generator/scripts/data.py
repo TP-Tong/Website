@@ -48,7 +48,7 @@ class People(object):
 
     def load(self):
         print("data loading...")
-        people_df = pd.read_excel(self.path)
+        people_df = pd.read_excel(self.path, keep_default_na=False)
         people_df_col = people_df.columns.values
         people_mat = people_df.values
         self.data = []

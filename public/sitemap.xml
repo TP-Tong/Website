@@ -102,6 +102,8 @@
   <url>
     <loc>https://tongclass.ac.cn/info/academic/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://tongclass.ac.cn/author/andy/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://tongclass.ac.cn/author/antoine-lee/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tongclass.ac.cn/author/baotong-tian/</loc><changefreq>weekly</changefreq></url>
@@ -112,9 +114,15 @@
   <url>
     <loc>https://tongclass.ac.cn/info/book-corner/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://tongclass.ac.cn/author/cai-zhou/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://tongclass.ac.cn/categories/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://tongclass.ac.cn/author/che-pengliang/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://tongclass.ac.cn/author/cheng-peng/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tongclass.ac.cn/author/chenyu-hong/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tongclass.ac.cn/author/chunyang-tang/</loc><changefreq>weekly</changefreq></url>
   <url>
@@ -130,6 +138,8 @@
   <url>
     <loc>https://tongclass.ac.cn/author/dayuan-zhao/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://tongclass.ac.cn/author/decimal/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://tongclass.ac.cn/author/elisa/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tongclass.ac.cn/author/fanzhi-zeng/</loc><changefreq>weekly</changefreq></url>
@@ -144,6 +154,8 @@
   <url>
     <loc>https://tongclass.ac.cn/author/hang-ye/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://tongclass.ac.cn/author/hanging-gao/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://tongclass.ac.cn/author/hanyu-liu/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tongclass.ac.cn/author/haochen-zhao/</loc><changefreq>weekly</changefreq></url>
@@ -156,9 +168,15 @@
   <url>
     <loc>https://tongclass.ac.cn/author/hengyan-liu/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://tongclass.ac.cn/author/houhei-lam/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tongclass.ac.cn/author/huangxing-chen/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://tongclass.ac.cn/author/huixuan-cheng/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tongclass.ac.cn/author/jiahui-wang/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tongclass.ac.cn/author/jianzhuo-wu/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tongclass.ac.cn/author/jieqian-sun/</loc><changefreq>weekly</changefreq></url>
   <url>
@@ -166,9 +184,17 @@
   <url>
     <loc>https://tongclass.ac.cn/author/jinyi-luo/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://tongclass.ac.cn/author/jinyuan-hu/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tongclass.ac.cn/author/jiongye-li/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://tongclass.ac.cn/author/joy-li/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tongclass.ac.cn/author/juncheng-wu/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tongclass.ac.cn/author/junhao-li/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tongclass.ac.cn/author/junqi-ge/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tongclass.ac.cn/author/junting-zhou/</loc><changefreq>weekly</changefreq></url>
   <url>
@@ -176,7 +202,13 @@
   <url>
     <loc>https://tongclass.ac.cn/author/kaile-wang/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://tongclass.ac.cn/author/keqian-tang/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://tongclass.ac.cn/author/lai-wei/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tongclass.ac.cn/author/larry-lee/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tongclass.ac.cn/author/li-xiang/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tongclass.ac.cn/author/liangyu-wu/</loc><changefreq>weekly</changefreq></url>
   <url>
@@ -216,6 +248,8 @@
   <url>
     <loc>https://tongclass.ac.cn/author/shanglin-ng/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://tongclass.ac.cn/author/shangyan-wang/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://tongclass.ac.cn/author/shaoyang-cui/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tongclass.ac.cn/author/shenghan-xu/</loc><changefreq>weekly</changefreq></url>
@@ -236,13 +270,19 @@
   <url>
     <loc>https://tongclass.ac.cn/author/tao-zhang/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://tongclass.ac.cn/author/terry-wu/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://tongclass.ac.cn/info/book-corner/thu/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tongclass.ac.cn/author/tianze-zhang/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tongclass.ac.cn/author/tinghao-zhao/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://tongclass.ac.cn/author/weiduo-gong/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://tongclass.ac.cn/author/weinan-qian/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tongclass.ac.cn/author/weiye-liu/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tongclass.ac.cn/author/xingping-yu/</loc><changefreq>weekly</changefreq></url>
   <url>
@@ -250,7 +290,13 @@
   <url>
     <loc>https://tongclass.ac.cn/author/xinyu-chen/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://tongclass.ac.cn/author/xinyu-cui/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tongclass.ac.cn/author/xiong-zexuan/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://tongclass.ac.cn/author/xueni-tong-tong/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tongclass.ac.cn/author/yanran-zhang/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tongclass.ac.cn/author/yaodong-yang/</loc><changefreq>weekly</changefreq></url>
   <url>
@@ -262,7 +308,11 @@
   <url>
     <loc>https://tongclass.ac.cn/author/yilue-qian/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://tongclass.ac.cn/author/yinkuan-liu/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://tongclass.ac.cn/author/yitong-luo/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tongclass.ac.cn/author/yixin-hu/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tongclass.ac.cn/author/yixin-zhu/</loc><changefreq>weekly</changefreq></url>
   <url>
@@ -280,9 +330,13 @@
   <url>
     <loc>https://tongclass.ac.cn/author/zejia-yang/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://tongclass.ac.cn/author/zetian-xia/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://tongclass.ac.cn/author/zhan-shi/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tongclass.ac.cn/author/zhancun-mu/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tongclass.ac.cn/author/zhenghao-qi/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tongclass.ac.cn/author/zhenyu-guan/</loc><changefreq>weekly</changefreq></url>
   <url>
@@ -298,11 +352,15 @@
   <url>
     <loc>https://tongclass.ac.cn/author/zian-wang/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://tongclass.ac.cn/author/ziang-chen/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://tongclass.ac.cn/author/zimo-he/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tongclass.ac.cn/author/ziran-yang/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tongclass.ac.cn/author/zixi-kang/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tongclass.ac.cn/author/ziyong-lin/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tongclass.ac.cn/about/</loc><changefreq>weekly</changefreq></url>
   <url>
