@@ -1,6 +1,7 @@
 # IDEs
 .idea/
 # mac
+*/.DS_Store
 .DS_Store
 
 # Hugo
