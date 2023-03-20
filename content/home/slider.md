@@ -41,17 +41,4 @@ content:
         icon_pack: fas
         text: 查看
         url: 'https://tongclass.ac.cn/author/xueni-tong-tong/'
-    - title: 通班官方网站上线啦！
-      content: 通班官方网站（https://tongclass.ac.cn/）上线试运行。
-      align: center
-      background:
-        position: center
-        color: '#666'
-        brightness: 0.7
-        media: bigai.jpg
-      link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: 查看
-        url: 'https://tongclass.ac.cn/'
 ---
