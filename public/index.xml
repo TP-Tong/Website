@@ -5,7 +5,7 @@
     <link>https://tongclass.ac.cn/</link>
       <atom:link href="https://tongclass.ac.cn/index.xml" rel="self" type="application/rss+xml" />
     <description>通用人工智能实验班</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 16 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tongclass.ac.cn/media/icon_hu444d86ff9c8bc6b3e6f8c2a3492878e5_142951_512x512_fill_lanczos_center_3.png</url>
       <title>通用人工智能实验班</title>
@@ -15,7 +15,7 @@
     <item>
       <title>DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation</title>
       <link>https://tongclass.ac.cn/publication/2023/dexgraspnet/</link>
-      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
       <guid>https://tongclass.ac.cn/publication/2023/dexgraspnet/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>GenDexGrasp: Generalizable Dexterous Grasping</title>
       <link>https://tongclass.ac.cn/publication/2023/gendexgrasp/</link>
-      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
       <guid>https://tongclass.ac.cn/publication/2023/gendexgrasp/</guid>
       <description></description>
     </item>
@@ -36,6 +36,14 @@
       <description>&lt;p&gt;Please fillout the form below to inform us your availability.&lt;/p&gt;
 &lt;iframe width=&#34;100%&#34; height=&#34;600px&#34; src=&#34;https://forms.office.com/Pages/ResponsePage.aspx?id=Mkaj650Nf0WvcwDjs3ODCHctYn0LcJNNnlk2zrzplGxUMFUxNkFFNUNIN0tTWTBGVElXUzc5Sk9XUS4u&amp;embed=true&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; style=&#34;border: none; max-width:100%; max-height:100vh&#34; allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen&gt; &lt;/iframe&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Artificial Social Intelligence: A Comparative and Holistic View</title>
+      <link>https://tongclass.ac.cn/publication/2023/asi/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/publication/2023/asi/</guid>
+      <description></description>
     </item>
     
     <item>
