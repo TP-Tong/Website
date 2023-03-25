@@ -205,6 +205,9 @@ def write_record(record):
     return yaml_dict
 
 def handle_avatar(path, record):
+    # print(os.path.exists(os.path.join(DATA, "student-photos")))
+    # print(os.listdir(os.path.join(DATA, "student-photos")))
+    # print(record[MAPPER["chineseName"]])
     if record[MAPPER["photo"]] not in NONES:
         avatar = requests.get(record[MAPPER["photo"]], stream=True)
         with open(os.path.join(path, "avatar.jpg"), "wb") as file:
@@ -212,6 +215,7 @@ def handle_avatar(path, record):
                 file.write(chunk)
     elif os.path.exists(os.path.join(DATA, "student-photos"))\
         and record[MAPPER["chineseName"]] in os.listdir(os.path.join(DATA, "student-photos")):
+        print("eeee")
         avatarDir = os.path.join("..", "data", "student-photos", record[MAPPER["chineseName"]])
         fileNames = os.listdir(avatarDir)
         avatarName = []

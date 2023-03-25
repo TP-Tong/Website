@@ -33,8 +33,27 @@
       <link>https://tongclass.ac.cn/event/2023-03-tong-event/</link>
       <pubDate>Sun, 26 Mar 2023 14:00:00 +0000</pubDate>
       <guid>https://tongclass.ac.cn/event/2023-03-tong-event/</guid>
-      <description>&lt;p&gt;Please fillout the form below to inform us your availability.&lt;/p&gt;
-&lt;iframe width=&#34;100%&#34; height=&#34;600px&#34; src=&#34;https://forms.office.com/Pages/ResponsePage.aspx?id=Mkaj650Nf0WvcwDjs3ODCHctYn0LcJNNnlk2zrzplGxUMFUxNkFFNUNIN0tTWTBGVElXUzc5Sk9XUS4u&amp;embed=true&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; style=&#34;border: none; max-width:100%; max-height:100vh&#34; allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen&gt; &lt;/iframe&gt;
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://assets.tongclass.ac.cn/events/tongclass-meeting/1.2023-03-25/Agenda.jpeg&#34; alt=&#34;Agenda&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -117,6 +136,14 @@
 &lt;h3 id=&#34;speaker&#34;&gt;Speaker&lt;/h3&gt;
 &lt;p&gt;Yuyang Li is a member of the Technology and Network Committee of the Tsinghua Tong Class, and the technical lead of Tong Class 2020. He is responsible for managing the GPU servers and maintaining the official website for THU Tong Class. He has worked in Linux system ops for more than five years.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Denoising Masked Autoencoders are Certifiable Robust Vision Learners</title>
+      <link>https://tongclass.ac.cn/publication/2022/denoising/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/publication/2022/denoising/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -927,6 +954,14 @@
 &lt;li&gt;排版 | 汪润&lt;/li&gt;
 &lt;li&gt;审核 | 周偲&lt;/li&gt;
 &lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Faster VoxelPose: Real-time 3D Human Pose Estimation by Orthographic Projection</title>
+      <link>https://tongclass.ac.cn/publication/2023/orthographic/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/publication/2023/orthographic/</guid>
+      <description></description>
     </item>
     
     <item>

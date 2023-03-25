@@ -7,7 +7,8 @@ organizations:
   url: https://www.tsinghua.edu.cn
 bio: ''
 interests:
-- CV
+- Computer Vision
+- ' Machine Learning'
 education:
   courses:
   - course: B.E. in Automation and Artificial Intelligence
@@ -16,10 +17,12 @@ education:
 social:
 - icon: envelope
   icon_pack: fa
-  link: mailto:z-zy20@mails.tsinghua.edu.cn
-email: z-zy20@mails.tsinghua.edu.cn
+  link: mailto:zheng_congjie@163.com
+- icon: github
+  icon_pack: fab
+  link: https://github.com/7hinkDifferent
+email: zheng_congjie@163.com
 highlight_name: false
 user_groups:
 - 清华 20 级
-- 网站维护团队
 ---

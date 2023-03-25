@@ -1,3 +1,4 @@
+
 ---
 title: The First Assembly of TongClass
 
@@ -46,8 +47,6 @@ slides:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
+
 ---
-
-Please fillout the form below to inform us your availability.
-
-<iframe width="100%" height="600px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=Mkaj650Nf0WvcwDjs3ODCHctYn0LcJNNnlk2zrzplGxUMFUxNkFFNUNIN0tTWTBGVElXUzc5Sk9XUS4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+![Agenda](https://assets.tongclass.ac.cn/events/tongclass-meeting/1.2023-03-25/Agenda.jpeg)

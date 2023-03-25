@@ -1,5 +1,5 @@
 ---
-title: Shuran Liu
+title: Shut and Liu
 superuser: false
 role: Member
 organizations:

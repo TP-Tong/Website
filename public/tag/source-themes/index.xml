@@ -36,5 +36,21 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Denoising Masked Autoencoders are Certifiable Robust Vision Learners</title>
+      <link>https://tongclass.ac.cn/publication/2022/denoising/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/publication/2022/denoising/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faster VoxelPose: Real-time 3D Human Pose Estimation by Orthographic Projection</title>
+      <link>https://tongclass.ac.cn/publication/2023/orthographic/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/publication/2023/orthographic/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
