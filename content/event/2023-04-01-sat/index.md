@@ -48,7 +48,7 @@ slides:
 projects:
 ---
 
-![Poster](https://assets.tongclass.ac.cn/events/thu-tong-saturday-afternoon-talks/1.ResearchAndPhD/Poster.png)
+![Poster](https://assets.tongclass.ac.cn/events/thu-tong-saturday-afternoon-talks/2.ResearchAndPhD/Poster.png)
 
 ### Speakers
 
