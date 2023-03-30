@@ -19,7 +19,7 @@ all_day: false
 publishDate: '2023-02-26T18:00:00Z'
 
 authors: ["Puhao Li", "Liangru Xiang"]
-tags: ["peers' talk", "research"]
+tags: ["peers' talk", "research", "experience sharing"]
 
 # Is this a featured talk? (true/false)
 featured: false
