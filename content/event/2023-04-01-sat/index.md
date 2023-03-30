@@ -1,5 +1,5 @@
 ---
-title: An Experience Sharing Around AI Research and Pursuing a Doctor's Degree
+title: In Persuit of a Research Career with Confidence and Enthusiasm
 
 event: THU Tong Saturday Afternoon Talks
 # event_url: https://example.org
@@ -48,7 +48,7 @@ slides:
 projects:
 ---
 
-![Poster](https://assets.tongclass.ac.cn/events/thu-tong-saturday-afternoon-talks/2.ResearchAndPhD/Poster.png)
+![Poster](https://assets.tongclass.ac.cn/events/thu-tong-saturday-afternoon-talks/2.ResearchPursuit/Poster.png)
 
 ### Speakers
 
