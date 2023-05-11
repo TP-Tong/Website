@@ -48,8 +48,6 @@ slides:
 projects:
 ---
 
-![Poster](https://assets.tongclass.ac.cn/events/thu-tong-saturday-afternoon-talks/3.ResearchTips/Poster.png)
-
 ### Overview 
 #### <center>Generating human motions: What it is, how it is commonly done, and how it should be done</center>
 <center>Tengyu Liu</center>
@@ -59,6 +57,8 @@ Close your eyes and imagine yourself standing up from a chair, walking to a near
 #### <center>What does it feel like doing research in different envrionments</center>
 <center>Yixin Chen</center>
 Research is a journey of exploration, discovery, and innovation, and the environments in which we conduct research can greatly impact our experiences and outcomes. One of the most exciting aspects of research is the chance to collaborate with people from different backgrounds and disciplines, each bringing their own perspective and approach to the work. By learning from one another, we can expand our knowledge and skills, and ultimately create more impactful and meaningful research. In this talk, I will explore what it feels like to do research in different environments and how we can harness the power of diversity to achieve our research goals.
+
+![Poster](https://assets.tongclass.ac.cn/events/thu-tong-saturday-afternoon-talks/3.ResearchTips/Poster.png)
 
 ### Speakers
 
