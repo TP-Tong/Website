@@ -1,5 +1,5 @@
 ---
-title: TianZe Zhang
+title: Tianze Zhang
 superuser: false
 role: Member
 organizations:

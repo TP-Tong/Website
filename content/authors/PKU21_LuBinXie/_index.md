@@ -1,5 +1,5 @@
 ---
-title: LuBin Xie
+title: Lubin Xie
 superuser: false
 role: Member
 organizations:

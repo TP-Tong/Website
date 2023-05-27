@@ -8,3 +8,6 @@
 /resources/
 # public/
 assets/jsconfig.json
+
+# Excel
+~$*.xls?

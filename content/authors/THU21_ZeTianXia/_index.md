@@ -1,5 +1,5 @@
 ---
-title: ZeTian Xia
+title: Zetian Xia
 superuser: false
 role: Member
 organizations:

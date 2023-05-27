@@ -1,5 +1,5 @@
 ---
-title: Chenyu hong
+title: Chenyu Hong
 superuser: false
 role: Member
 organizations:

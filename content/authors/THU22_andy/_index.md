@@ -1,5 +1,5 @@
 ---
-title: andy
+title: Andy
 superuser: false
 role: Member
 organizations:

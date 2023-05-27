@@ -1,5 +1,5 @@
 ---
-title: BoKai Huang
+title: Bokai Huang
 superuser: false
 role: Member
 organizations:
