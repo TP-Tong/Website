@@ -5,12 +5,28 @@
     <link>https://tongclass.ac.cn/tag/peers-talk/</link>
       <atom:link href="https://tongclass.ac.cn/tag/peers-talk/index.xml" rel="self" type="application/rss+xml" />
     <description>peers&#39; talk</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 13 May 2023 16:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 05 Jul 2023 10:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tongclass.ac.cn/media/icon_hu444d86ff9c8bc6b3e6f8c2a3492878e5_142951_512x512_fill_lanczos_center_3.png</url>
       <title>peers&#39; talk</title>
       <link>https://tongclass.ac.cn/tag/peers-talk/</link>
     </image>
+    
+    <item>
+      <title>Improving Language Models&#39; Reasoning: A Systematic Perspective</title>
+      <link>https://tongclass.ac.cn/event/2023-07-05-tzt/</link>
+      <pubDate>Wed, 05 Jul 2023 10:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/event/2023-07-05-tzt/</guid>
+      <description>&lt;h3 id=&#34;join&#34;&gt;Join&lt;/h3&gt;
+&lt;p&gt;时间：2023年7月5日 10:00 上午 北京，上海&lt;/p&gt;
+&lt;p&gt;加入 Zoom 会议
+&lt;a href=&#34;https://us06web.zoom.us/j/87569044478?pwd=OFdUcFFsSEIwKytUU2pUQzZ1dnBnZz09&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://us06web.zoom.us/j/87569044478?pwd=OFdUcFFsSEIwKytUU2pUQzZ1dnBnZz09&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;会议号：875 6904 4478
+密码：412544&lt;/p&gt;
+&lt;h3 id=&#34;speakers&#34;&gt;Speakers&lt;/h3&gt;
+&lt;p&gt;Yao Fu is a Ph.D. student at University of Edinburgh. Previously he finished his M.S. in Columbia University and B.S. in Peking University. Yao studies large scale probabilistic generative models for human language. His research interests include complex reasoning, alignment-focused evaluation, and how to inject strong abilities to language models from first principles.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Tips for a Research Career with Confidence and Enthusiasm</title>
