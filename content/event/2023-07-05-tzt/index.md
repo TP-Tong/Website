@@ -54,7 +54,6 @@ projects:
 https://us06web.zoom.us/j/87569044478?pwd=OFdUcFFsSEIwKytUU2pUQzZ1dnBnZz09
 
 会议号：875 6904 4478
-密码：412544
 
 ### Speakers
 
