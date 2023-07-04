@@ -47,6 +47,7 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+![Poster](https://assets.tongclass.ac.cn/events/tongzhi-talk/1.ImprovingReasoning/Poster.jpeg)
 ### Join
 时间：2023年7月5日 10:00 上午 北京，上海
 
