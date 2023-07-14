@@ -1,6 +1,6 @@
 ---
 title: 新春贺词 | 朱松纯院长寄语通班的新年贺词
-date: 2022-10-15
+date: 2022-12-31
 image:
   focal_point: 'middle'
 ---
