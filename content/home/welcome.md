@@ -7,7 +7,7 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: 通用人工智能实验班
-hero_media: newyear-22.jpg
+hero_media: assembly-23.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
