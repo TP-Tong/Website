@@ -5,28 +5,12 @@
     <link>https://tongclass.ac.cn/author/hang-ye/</link>
       <atom:link href="https://tongclass.ac.cn/author/hang-ye/index.xml" rel="self" type="application/rss+xml" />
     <description>Hang Ye</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 28 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
     <image>
-      <url>https://tongclass.ac.cn/media/icon_hu444d86ff9c8bc6b3e6f8c2a3492878e5_142951_512x512_fill_lanczos_center_3.png</url>
+      <url>https://tongclass.ac.cn/author/hang-ye/avatar_hua9cfc69b229299ae60ab76ee64214252_2794041_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Hang Ye</title>
       <link>https://tongclass.ac.cn/author/hang-ye/</link>
     </image>
-    
-    <item>
-      <title>Denoising Masked Autoencoders are Certifiable Robust Vision Learners</title>
-      <link>https://tongclass.ac.cn/publication/2022/denoising/</link>
-      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://tongclass.ac.cn/publication/2022/denoising/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Faster VoxelPose: Real-time 3D Human Pose Estimation by Orthographic Projection</title>
-      <link>https://tongclass.ac.cn/publication/2023/orthographic/</link>
-      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://tongclass.ac.cn/publication/2023/orthographic/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
