@@ -28,17 +28,17 @@ content:
         icon_pack: fas
         text: 查看
         url: 'https://tongclass.ac.cn/event/2023-03-tong-event/'
-    - title: 朱松纯院长寄语通班的新年贺词
-      content: 朱松纯院长向“通班”的同学们，向关心和支持通班的老师和朋友们，致以新年的祝福。
-      align: center
-      background:
-        position: center
-        color: '#666'
-        brightness: 0.7
-        media: fireworks.jpg
-      link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: 查看
-        url: 'https://tongclass.ac.cn/post/2022-12-31-new-year-message'
+    # - title: 朱松纯院长寄语通班的新年贺词
+    #   content: 朱松纯院长向“通班”的同学们，向关心和支持通班的老师和朋友们，致以新年的祝福。
+    #   align: center
+    #   background:
+    #     position: center
+    #     color: '#666'
+    #     brightness: 0.7
+    #     media: fireworks.jpg
+    #   link:
+    #     icon: graduation-cap
+    #     icon_pack: fas
+    #     text: 查看
+    #     url: 'https://tongclass.ac.cn/post/2022-12-31-new-year-message'
 ---
