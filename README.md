@@ -12,13 +12,19 @@ The source code of the website is hosted on GitHub Repo: [TP-Tong/Website](https
 
 Please refer to [official docs](https://gohugo.io/installation/).
 
+### Local Server
+
+Use `hugo server` to start a local server.
+
 ### Compile
 
-Use `hugo build` to compile static files into `public`
+Use `hugo` to compile static files into `public`
 
 ### Publish
 
 Due to the lack of support of hugo-extended by Cloudflare, we currently need to build the website to generate static files under `public/` before pushing the contents. Commits to the `main` branch will automatically trigger the website update.
+
+Please refer to [official docs](https://gohugo.io/getting-started/usage/) for more usage.
 
 ### Dev Branch
 
