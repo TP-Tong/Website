@@ -21,7 +21,7 @@ from writer import *
 from tqdm import tqdm
 
 if __name__ == '__main__':
-    form = os.path.join(DATA, "dataset.xlsx") # TODO: change this
+    form = os.path.join(DATA, "通班网站信息收集（收集结果）THU 23.xlsx") # TODO: change this
     people = People(form)
 
     print("data writing...")

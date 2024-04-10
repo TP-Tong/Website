@@ -20,7 +20,7 @@ MAPPER = {
     "title": "姓名（英文，如 Guangyuan Jiang）（必填）",
     "chineseName": "姓名（中文，如 姜广源）",
     ##### photo #####
-    "photo": "个人照片（PKU 22 必填，其他同学可选）",
+    "photo": "个人照片",
     ##### role #####
     ##### organizations #####
     "organizations": "组织",

@@ -17,9 +17,11 @@ import numpy as np
 import pandas as pd
 from tqdm import tqdm
 from config import *
+from openpyxl import load_workbook
+from PIL import Image
 
 class Record(dict):
-    def __init__(self, keys, values, comparison=None):
+    def __init__(self, keys, values, img, comparison=None):
         # use dict to store a single record, easy to index
         # IMPORTANT to init for all possible values in MAPPER
         for key in MAPPER:
@@ -27,6 +29,9 @@ class Record(dict):
 
         for idx, key in enumerate(keys):
             self[str(key)] = values[idx]
+            if key == MAPPER["photo"]:
+                self[str(key)] = img
+        
         # if comparison is None, then no sort
         self.comparison = comparison
 
@@ -45,6 +50,19 @@ class People(object):
         self.comparison = comparison # use to sort
 
         self.load()
+    
+    # Image is special, so it is processed separately.
+    def load_image(self, row_num):
+        workbook = load_workbook(self.path)
+        sheet = workbook['Sheet1']
+        res_img = np.NaN
+        for image in sheet._images:
+            if image.anchor._from.row == row_num: # match the index
+                res_img = Image.open(image.ref).convert("RGB")
+                # openpyxl.image -> PIL.Image
+        if res_img != np.NaN:
+            return res_img
+        return res_img
 
     def load(self):
         print("data loading...")
@@ -54,7 +72,8 @@ class People(object):
         self.data = []
 
         for i in tqdm(range(people_mat.shape[0])):
-            self.data.append(Record(people_df_col, people_mat[i], self.comparison))
+            people_image = self.load_image(i+1)
+            self.data.append(Record(people_df_col, people_mat[i], people_image, self.comparison))
 
         if self.comparison is not None:
             print("sorting...")
@@ -92,5 +111,5 @@ if __name__ == '__main__':
     # values = [1,2]
     # record = Record(keys, values)
     # print(record)
-    people = People(os.path.join(DATA, "通班网站信息收集（收集结果）.xlsx"))
+    people = People(os.path.join(DATA, "通班网站信息收集（收集结果）THU 23.xlsx"))
     people.preview()

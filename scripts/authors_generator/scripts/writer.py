@@ -209,10 +209,15 @@ def handle_avatar(path, record):
     # print(os.listdir(os.path.join(DATA, "student-photos")))
     # print(record[MAPPER["chineseName"]])
     if record[MAPPER["photo"]] not in NONES:
-        avatar = requests.get(record[MAPPER["photo"]], stream=True)
-        with open(os.path.join(path, "avatar.jpg"), "wb") as file:
-            for chunk in avatar.iter_content(chunk_size=32):
-                file.write(chunk)
+    #    avatar = requests.get(record[MAPPER["photo"]], stream=True)
+    #    with open(os.path.join(path, "avatar.jpg"), "wb") as file:
+    #        for chunk in avatar.iter_content(chunk_size=32):
+    #            file.write(chunk) 
+        avatar = record[MAPPER["photo"]]
+        avatar.save(os.path.join(path, "avatar.jpg"))
+    #The new edition is really simple: save the PIL.Image
+    #The principle above is different from the following ones.
+
     elif os.path.exists(os.path.join(DATA, "student-photos"))\
         and record[MAPPER["chineseName"]] in os.listdir(os.path.join(DATA, "student-photos")):
         print("eeee")
