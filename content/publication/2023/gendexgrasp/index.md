@@ -8,6 +8,16 @@ authors:
   - Yixin Zhu
   - Yaodong Yang
   - Siyuan Huang
+
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- 
+- 
+- 
+- 
+- "Corresponding author"
+
 date: '2023-05-29T00:00:00Z'
 doi: ''
 
