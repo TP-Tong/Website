@@ -13,6 +13,9 @@ main:
   - name: 成员
     url: people
     weight: 30
+  - name: 校友
+    url: alumni
+    weight: 30
   - name: 信息
     url: info
     weight: 40
