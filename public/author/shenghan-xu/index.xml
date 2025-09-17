@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shenghan Xu | 通用人工智能实验班</title>
+    <link>https://tongclass.ac.cn/author/shenghan-xu/</link>
+      <atom:link href="https://tongclass.ac.cn/author/shenghan-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shenghan Xu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://tongclass.ac.cn/author/shenghan-xu/avatar_hu61bb2194df8d7b2b6ef699e7c4c79b95_6735684_270x270_fill_q100_lanczos_center.jpg</url>
+      <title>Shenghan Xu</title>
+      <link>https://tongclass.ac.cn/author/shenghan-xu/</link>
+    </image>
+    
+  </channel>
+</rss>

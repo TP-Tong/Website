@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vision | 通用人工智能实验班</title>
+    <link>https://tongclass.ac.cn/tag/vision/</link>
+      <atom:link href="https://tongclass.ac.cn/tag/vision/index.xml" rel="self" type="application/rss+xml" />
+    <description>vision</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 09 Apr 2022 18:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tongclass.ac.cn/media/icon_hu444d86ff9c8bc6b3e6f8c2a3492878e5_142951_512x512_fill_lanczos_center_3.png</url>
+      <title>vision</title>
+      <link>https://tongclass.ac.cn/tag/vision/</link>
+    </image>
+    
+    <item>
+      <title>Tong Paper Saturday E01 - Vision Transformer</title>
+      <link>https://tongclass.ac.cn/event/2022-04-09-vit/</link>
+      <pubDate>Sat, 09 Apr 2022 18:00:00 +0000</pubDate>
+      <guid>https://tongclass.ac.cn/event/2022-04-09-vit/</guid>
+      <description>&lt;h3 id=&#34;speaker&#34;&gt;Speaker&lt;/h3&gt;
+&lt;p&gt;Yu Liu is the leader of the class of 2020. His research interests include object-centric learning and machine learning.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

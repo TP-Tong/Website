@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yingsheng Zhang | 通用人工智能实验班</title>
+    <link>https://tongclass.ac.cn/author/yingsheng-zhang/</link>
+      <atom:link href="https://tongclass.ac.cn/author/yingsheng-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yingsheng Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://tongclass.ac.cn/author/yingsheng-zhang/avatar_hub20bbea5694ca3a59339a693ae8ca887_288528_270x270_fill_q100_lanczos_center.jpg</url>
+      <title>Yingsheng Zhang</title>
+      <link>https://tongclass.ac.cn/author/yingsheng-zhang/</link>
+    </image>
+    
+  </channel>
+</rss>

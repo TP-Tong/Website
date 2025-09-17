@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuchen Lin | 通用人工智能实验班</title>
+    <link>https://tongclass.ac.cn/author/yuchen-lin/</link>
+      <atom:link href="https://tongclass.ac.cn/author/yuchen-lin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuchen Lin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://tongclass.ac.cn/author/yuchen-lin/avatar_hue1162d9b8b9a8fb9734654666c2b58cc_2989427_270x270_fill_q100_lanczos_center.jpg</url>
+      <title>Yuchen Lin</title>
+      <link>https://tongclass.ac.cn/author/yuchen-lin/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shihefeng Wang | 通用人工智能实验班</title>
+    <link>https://tongclass.ac.cn/author/shihefeng-wang/</link>
+      <atom:link href="https://tongclass.ac.cn/author/shihefeng-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shihefeng Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://tongclass.ac.cn/author/shihefeng-wang/avatar_huf8f165fed14a3796aa14e3d5e53065d2_34756_270x270_fill_q100_lanczos_center.jpg</url>
+      <title>Shihefeng Wang</title>
+      <link>https://tongclass.ac.cn/author/shihefeng-wang/</link>
+    </image>
+    
+  </channel>
+</rss>

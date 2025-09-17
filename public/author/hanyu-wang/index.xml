@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hanyu Wang | 通用人工智能实验班</title>
+    <link>https://tongclass.ac.cn/author/hanyu-wang/</link>
+      <atom:link href="https://tongclass.ac.cn/author/hanyu-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hanyu Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://tongclass.ac.cn/author/hanyu-wang/avatar_hu3d03a01dcc18bc5be0e67db3d8d209a6_2192960_270x270_fill_q100_lanczos_center.jpg</url>
+      <title>Hanyu Wang</title>
+      <link>https://tongclass.ac.cn/author/hanyu-wang/</link>
+    </image>
+    
+  </channel>
+</rss>

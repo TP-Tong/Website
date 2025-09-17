@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Penghui Chen | 通用人工智能实验班</title>
+    <link>https://tongclass.ac.cn/author/penghui-chen/</link>
+      <atom:link href="https://tongclass.ac.cn/author/penghui-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Penghui Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://tongclass.ac.cn/author/penghui-chen/avatar_hue9300ae1ca4ab5fc5055b75832de790c_4294278_270x270_fill_q100_lanczos_center.jpg</url>
+      <title>Penghui Chen</title>
+      <link>https://tongclass.ac.cn/author/penghui-chen/</link>
+    </image>
+    
+  </channel>
+</rss>

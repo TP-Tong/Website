@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feiyang Xie | 通用人工智能实验班</title>
+    <link>https://tongclass.ac.cn/author/feiyang-xie/</link>
+      <atom:link href="https://tongclass.ac.cn/author/feiyang-xie/index.xml" rel="self" type="application/rss+xml" />
+    <description>Feiyang Xie</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://tongclass.ac.cn/author/feiyang-xie/avatar_huca0dd6fe1ba7534210aa23a8b05418b5_2796281_270x270_fill_q100_lanczos_center.jpg</url>
+      <title>Feiyang Xie</title>
+      <link>https://tongclass.ac.cn/author/feiyang-xie/</link>
+    </image>
+    
+  </channel>
+</rss>

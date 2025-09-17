@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhancun Mu | 通用人工智能实验班</title>
+    <link>https://tongclass.ac.cn/author/zhancun-mu/</link>
+      <atom:link href="https://tongclass.ac.cn/author/zhancun-mu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhancun Mu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://tongclass.ac.cn/author/zhancun-mu/avatar_huc3ca3a7bbeb091b93e8593c6c0867bf5_1087448_270x270_fill_q100_lanczos_center.jpg</url>
+      <title>Zhancun Mu</title>
+      <link>https://tongclass.ac.cn/author/zhancun-mu/</link>
+    </image>
+    
+  </channel>
+</rss>

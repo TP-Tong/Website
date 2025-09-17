@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cheng Peng | 通用人工智能实验班</title>
+    <link>https://tongclass.ac.cn/author/cheng-peng/</link>
+      <atom:link href="https://tongclass.ac.cn/author/cheng-peng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cheng Peng</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://tongclass.ac.cn/author/cheng-peng/avatar_huf91532fb098d817e2a1a2635a52745f7_23806_270x270_fill_q100_lanczos_center.jpg</url>
+      <title>Cheng Peng</title>
+      <link>https://tongclass.ac.cn/author/cheng-peng/</link>
+    </image>
+    
+  </channel>
+</rss>

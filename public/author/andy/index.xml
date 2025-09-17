@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andy | 通用人工智能实验班</title>
+    <link>https://tongclass.ac.cn/author/andy/</link>
+      <atom:link href="https://tongclass.ac.cn/author/andy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andy</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://tongclass.ac.cn/author/andy/avatar_hu9b57dfd91cc342703b569d4bb86d1a81_5717800_270x270_fill_q100_lanczos_center.jpeg</url>
+      <title>Andy</title>
+      <link>https://tongclass.ac.cn/author/andy/</link>
+    </image>
+    
+  </channel>
+</rss>
